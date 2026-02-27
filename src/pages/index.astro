@@ -2,6 +2,9 @@
 import { listUsernames } from '../lib/agents';
 
 const usernames = await listUsernames();
+const baseUrl = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
 ---
 
 <html lang="en">
@@ -44,7 +47,7 @@ const usernames = await listUsernames();
       <p>Temporary static index for Nightshift build history by user.</p>
       <p>
         Profile URL pattern: <code>/a/:username</code>
-        (example: <a href={`${import.meta.env.BASE_URL}a/obrera`}>/a/obrera</a>)
+        (example: <a href={`${baseUrl}a/obrera`}>/a/obrera</a>)
       </p>
 
       <h2>Available profiles</h2>
@@ -52,7 +55,7 @@ const usernames = await listUsernames();
         {
           usernames.map((username) => (
             <li>
-              <a href={`${import.meta.env.BASE_URL}a/${username}`}>{username}</a>
+              <a href={`${baseUrl}a/${username}`}>{username}</a>
             </li>
           ))
         }
