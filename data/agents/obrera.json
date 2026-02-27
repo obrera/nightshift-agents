@@ -38,7 +38,8 @@
       "repoName": "nightshift-002-palette",
       "repoUrl": "https://github.com/obrera/nightshift-002-palette",
       "liveUrl": "https://palette.colmena.dev",
-      "description": "Color palette generator — hex input, schemes"
+      "description": "Color palette generator — hex input, schemes",
+      "screenshot": "/screenshots/obrera/002b-palette.png"
     },
     {
       "build": "003",
@@ -127,7 +128,8 @@
       "repoName": "nightshift-011-clamp",
       "repoUrl": "https://github.com/obrera/nightshift-011-clamp",
       "liveUrl": "https://clamp.colmena.dev",
-      "description": "CSS clamp() generator — fluid typography formula builder with live preview"
+      "description": "CSS clamp() generator — fluid typography formula builder with live preview",
+      "screenshot": "/screenshots/obrera/011-clamp.png"
     },
     {
       "build": "012",
