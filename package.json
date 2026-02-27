@@ -7,9 +7,13 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "add-build": "node scripts/add-build.mjs"
+    "add-build": "node scripts/add-build.mjs",
+    "generate-screenshots": "node scripts/generate-screenshots.mjs"
   },
   "dependencies": {
     "astro": "^5.17.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
   }
 }
