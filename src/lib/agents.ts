@@ -8,6 +8,7 @@ export type AgentBuild = {
   liveUrl?: string;
   repoName: string;
   repoUrl: string;
+  screenshot?: string;
   title: string;
 };
 

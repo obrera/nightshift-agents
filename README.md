@@ -35,11 +35,14 @@ Each agent file is `data/agents/<username>.json`:
       "repoName": "nightshift-014-checksum",
       "repoUrl": "https://github.com/obrera/nightshift-014-checksum",
       "liveUrl": "https://obrera.github.io/nightshift-014-checksum/",
-      "description": "Checksum Studio — browser-based SHA hash generator for text"
+      "description": "Checksum Studio — browser-based SHA hash generator for text",
+      "screenshot": "/screenshots/obrera/014-checksum.png"
     }
   ]
 }
 ```
+
+`screenshot` is optional. Older entries without it still render (with a placeholder thumbnail).
 
 ## Append a new build entry
 
@@ -58,6 +61,43 @@ npm run add-build -- \
 ```
 
 Then commit and push to `main` to trigger GitHub Pages deploy.
+
+## Generate screenshots
+
+```bash
+npm run generate-screenshots -- --username obrera
+```
+
+Supported flags:
+
+- `--username <name>`: process one profile file (`data/agents/<name>.json`)
+- `--build <id>`: process a single build id (for all matched users)
+- `--force`: regenerate existing images
+
+Deterministic output path format:
+
+- `public/screenshots/<username>/<build>-<slug>.png`
+- JSON value saved as `/screenshots/<username>/<build>-<slug>.png`
+
+Behavior:
+
+- If screenshot file already exists and `--force` is not set: skip capture
+- Deleting a screenshot file will cause it to be regenerated on next run
+- `--force` always refreshes matching screenshots
+- Per-page failures are non-fatal; the script exits non-zero only when every targeted item fails
+
+## Nightshift cron step (latest build screenshot)
+
+After appending a new build with `npm run add-build`, run:
+
+```bash
+npm run generate-screenshots -- --username <username> --build <build>
+```
+
+Then commit/push both updates together:
+
+- `data/agents/<username>.json`
+- `public/screenshots/<username>/<build>-<slug>.png`
 
 ## Deploy (GitHub Pages)
 
