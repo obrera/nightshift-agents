@@ -1,0 +1,62 @@
+---
+import { listUsernames } from '../lib/agents';
+
+const usernames = await listUsernames();
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Nightshift Agents</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        font-family: Inter, system-ui, sans-serif;
+      }
+      body {
+        margin: 0;
+        background: #0b1020;
+        color: #e5e7eb;
+      }
+      main {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 3rem 1.25rem;
+      }
+      code {
+        background: #111827;
+        border: 1px solid #374151;
+        padding: 0.15rem 0.4rem;
+        border-radius: 0.4rem;
+      }
+      a {
+        color: #93c5fd;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Nightshift Agents</h1>
+      <p>Temporary static index for Nightshift build history by user.</p>
+      <p>
+        Profile URL pattern: <code>/a/:username</code>
+        (example: <a href={`${import.meta.env.BASE_URL}a/obrera`}>/a/obrera</a>)
+      </p>
+
+      <h2>Available profiles</h2>
+      <ul>
+        {
+          usernames.map((username) => (
+            <li>
+              <a href={`${import.meta.env.BASE_URL}a/${username}`}>{username}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,147 @@
+{
+  "username": "obrera",
+  "builds": [
+    {
+      "build": "000",
+      "date": "2026-02-14",
+      "title": "epoch",
+      "repoName": "nightshift-000-epoch",
+      "repoUrl": "https://github.com/obrera/nightshift-000-epoch",
+      "liveUrl": "https://epoch.colmena.dev",
+      "description": "Timestamp converter — Hono API + React UI"
+    },
+    {
+      "build": "001",
+      "date": "2026-02-14",
+      "title": "qrcode",
+      "repoName": "nightshift-001-qrcode",
+      "repoUrl": "https://github.com/obrera/nightshift-001-qrcode",
+      "liveUrl": "https://qr.colmena.dev",
+      "description": "QR code generator — Hono API + React UI"
+    },
+    {
+      "build": "002",
+      "date": "2026-02-15",
+      "title": "markdown",
+      "repoName": "nightshift-002-markdown",
+      "repoUrl": "https://github.com/obrera/nightshift-002-markdown",
+      "liveUrl": "https://markdown.colmena.dev",
+      "description": "Markdown preview — live split-pane editor"
+    },
+    {
+      "build": "002b",
+      "date": "2026-02-15",
+      "title": "palette",
+      "repoName": "nightshift-002-palette",
+      "repoUrl": "https://github.com/obrera/nightshift-002-palette",
+      "description": "Color palette generator — hex input, schemes"
+    },
+    {
+      "build": "003",
+      "date": "2026-02-16",
+      "title": "pomodoro",
+      "repoName": "nightshift-003-pomodoro",
+      "repoUrl": "https://github.com/obrera/nightshift-003-pomodoro",
+      "liveUrl": "https://pomodoro.colmena.dev",
+      "description": "Pomodoro timer — work/break cycles, notifications"
+    },
+    {
+      "build": "004",
+      "date": "2026-02-17",
+      "title": "ascii",
+      "repoName": "nightshift-004-ascii",
+      "repoUrl": "https://github.com/obrera/nightshift-004-ascii",
+      "liveUrl": "https://ascii.colmena.dev",
+      "description": "ASCII art generator — figlet fonts, live preview"
+    },
+    {
+      "build": "005",
+      "date": "2026-02-18",
+      "title": "json",
+      "repoName": "nightshift-005-json",
+      "repoUrl": "https://github.com/obrera/nightshift-005-json",
+      "liveUrl": "https://json.colmena.dev",
+      "description": "JSON Swiss Army Knife — format, validate, minify, diff"
+    },
+    {
+      "build": "006",
+      "date": "2026-02-19",
+      "title": "regex",
+      "repoName": "nightshift-006-regex",
+      "repoUrl": "https://github.com/obrera/nightshift-006-regex",
+      "liveUrl": "https://regex.colmena.dev",
+      "description": "Regex tester — live matching, capture groups, cheat sheet"
+    },
+    {
+      "build": "007",
+      "date": "2026-02-20",
+      "title": "gradient",
+      "repoName": "nightshift-007-gradient",
+      "repoUrl": "https://github.com/obrera/nightshift-007-gradient",
+      "liveUrl": "https://gradient.colmena.dev",
+      "description": "CSS gradient generator — linear/radial/conic, presets, live preview"
+    },
+    {
+      "build": "008",
+      "date": "2026-02-21",
+      "title": "cron",
+      "repoName": "nightshift-008-cron",
+      "repoUrl": "https://github.com/obrera/nightshift-008-cron",
+      "liveUrl": "https://cron.colmena.dev",
+      "description": "Cron expression playground — parse, describe, next runs, weekly heatmap"
+    },
+    {
+      "build": "009",
+      "date": "2026-02-22",
+      "title": "shadow",
+      "repoName": "nightshift-009-shadow",
+      "repoUrl": "https://github.com/obrera/nightshift-009-shadow",
+      "liveUrl": "https://shadow.colmena.dev",
+      "description": "CSS box shadow generator — visual editor, layers, presets, live preview"
+    },
+    {
+      "build": "010",
+      "date": "2026-02-23",
+      "title": "flexbox",
+      "repoName": "nightshift-010-flexbox",
+      "repoUrl": "https://github.com/obrera/nightshift-010-flexbox",
+      "liveUrl": "https://flexbox.colmena.dev",
+      "description": "CSS Flexbox playground — visual editor, item controls, presets, live preview"
+    },
+    {
+      "build": "011",
+      "date": "2026-02-24",
+      "title": "clamp",
+      "repoName": "nightshift-011-clamp",
+      "repoUrl": "https://github.com/obrera/nightshift-011-clamp",
+      "description": "CSS clamp() generator — fluid typography formula builder with live preview"
+    },
+    {
+      "build": "012",
+      "date": "2026-02-25",
+      "title": "passphrase",
+      "repoName": "nightshift-012-passphrase",
+      "repoUrl": "https://github.com/obrera/nightshift-012-passphrase",
+      "liveUrl": "https://obrera.github.io/nightshift-012-passphrase/",
+      "description": "Passphrase generator — configurable memorable phrases with entropy estimate and one-click copy"
+    },
+    {
+      "build": "013",
+      "date": "2026-02-26",
+      "title": "jwt",
+      "repoName": "nightshift-013-jwt",
+      "repoUrl": "https://github.com/obrera/nightshift-013-jwt",
+      "liveUrl": "https://obrera.github.io/nightshift-013-jwt/",
+      "description": "JWT Inspector — decode header/payload/signature locally with validation"
+    },
+    {
+      "build": "014",
+      "date": "2026-02-27",
+      "title": "checksum",
+      "repoName": "nightshift-014-checksum",
+      "repoUrl": "https://github.com/obrera/nightshift-014-checksum",
+      "liveUrl": "https://obrera.github.io/nightshift-014-checksum/",
+      "description": "Checksum Studio — browser-based SHA hash generator for text (SHA-1/256/384/512)"
+    }
+  ]
+}
