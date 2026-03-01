@@ -178,7 +178,7 @@
       "repoName": "nightshift-016-wordcount",
       "repoUrl": "https://github.com/obrera/nightshift-016-wordcount",
       "liveUrl": "https://obrera.github.io/nightshift-016-wordcount/",
-      "description": "WordCount — browser text analyzer with words, characters, lines, and reading-time stats",
+      "description": "WordCount — browser-based text analyzer with words, characters, lines, and reading-time stats",
       "screenshot": "/screenshots/obrera/016-wordcount.png"
     }
   ]
