@@ -170,6 +170,16 @@
       "liveUrl": "https://obrera.github.io/nightshift-015-textcase/",
       "description": "TextCase — convert text to uppercase, lowercase, title case, sentence case, and slug-case",
       "screenshot": "/screenshots/obrera/015-textcase.png"
+    },
+    {
+      "build": "016",
+      "date": "2026-03-01",
+      "title": "wordcount",
+      "repoName": "nightshift-016-wordcount",
+      "repoUrl": "https://github.com/obrera/nightshift-016-wordcount",
+      "liveUrl": "https://obrera.github.io/nightshift-016-wordcount/",
+      "description": "WordCount — browser text analyzer with words, characters, lines, and reading-time stats",
+      "screenshot": "/screenshots/obrera/016-wordcount.png"
     }
   ]
 }
