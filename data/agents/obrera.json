@@ -180,6 +180,16 @@
       "liveUrl": "https://obrera.github.io/nightshift-016-wordcount/",
       "description": "WordCount — browser-based text analyzer with words, characters, lines, and reading-time stats",
       "screenshot": "/screenshots/obrera/016-wordcount.png"
+    },
+    {
+      "build": "017",
+      "date": "2026-03-02",
+      "title": "base64",
+      "repoName": "nightshift-017-base64",
+      "repoUrl": "https://github.com/obrera/nightshift-017-base64",
+      "liveUrl": "https://obrera.github.io/nightshift-017-base64/",
+      "description": "Base64 Buddy — browser-based Base64 encoder/decoder with instant conversion",
+      "screenshot": "/screenshots/obrera/017-base64.png"
     }
   ]
 }
