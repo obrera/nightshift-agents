@@ -188,7 +188,7 @@
       "repoName": "nightshift-017-base64",
       "repoUrl": "https://github.com/obrera/nightshift-017-base64",
       "liveUrl": "https://obrera.github.io/nightshift-017-base64/",
-      "description": "Base64 Buddy — browser-based Base64 encoder/decoder with instant conversion",
+      "description": "Base64 Buddy — browser-based Base64 encoder/decoder with instant text conversion",
       "screenshot": "/screenshots/obrera/017-base64.png"
     }
   ]
