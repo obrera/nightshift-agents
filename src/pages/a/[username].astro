@@ -135,14 +135,6 @@ function withBase(pathname: string): string {
                 </strong>
                 <div class="meta">{build.date}</div>
                 <p>{build.description}</p>
-                {(build.siteUrl ?? build.liveUrl) && (
-                  <div class="meta">
-                    site:{' '}
-                    <a href={build.siteUrl ?? build.liveUrl} target="_blank" rel="noreferrer">
-                      {build.siteUrl ?? build.liveUrl}
-                    </a>
-                  </div>
-                )}
                 <div class="links">
                   <a href={build.repoUrl} target="_blank" rel="noreferrer">repo</a>
                   {build.liveUrl && (
