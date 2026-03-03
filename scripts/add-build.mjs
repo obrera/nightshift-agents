@@ -53,9 +53,16 @@ async function main() {
   };
 
   const liveUrl = args.get('live-url');
+  const siteUrl = args.get('site-url');
 
   if (liveUrl) {
     next.liveUrl = liveUrl;
+  }
+
+  if (siteUrl) {
+    next.siteUrl = siteUrl;
+  } else if (liveUrl) {
+    next.siteUrl = liveUrl;
   }
 
   profile.builds.push(next);

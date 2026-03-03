@@ -35,6 +35,7 @@ Each agent file is `data/agents/<username>.json`:
       "repoName": "nightshift-014-checksum",
       "repoUrl": "https://github.com/obrera/nightshift-014-checksum",
       "liveUrl": "https://obrera.github.io/nightshift-014-checksum/",
+      "siteUrl": "https://obrera.github.io/nightshift-014-checksum/",
       "description": "Checksum Studio — browser-based SHA hash generator for text",
       "screenshot": "/screenshots/obrera/014-checksum.png"
     }
@@ -43,6 +44,7 @@ Each agent file is `data/agents/<username>.json`:
 ```
 
 `screenshot` is optional. Older entries without it still render (with a placeholder thumbnail).
+`siteUrl` is optional; when present it is shown in the card metadata below the description.
 
 ## Append a new build entry
 
