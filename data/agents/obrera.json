@@ -190,6 +190,16 @@
       "liveUrl": "https://obrera.github.io/nightshift-017-base64/",
       "description": "Base64 Buddy — browser-based Base64 encoder/decoder with instant text conversion",
       "screenshot": "/screenshots/obrera/017-base64.png"
+    },
+    {
+      "build": "018",
+      "date": "2026-03-03",
+      "title": "urltools",
+      "repoName": "nightshift-018-urltools",
+      "repoUrl": "https://github.com/obrera/nightshift-018-urltools",
+      "liveUrl": "https://obrera.github.io/nightshift-018-urltools/",
+      "description": "URLTools — browser-based URL component + Base64 encoder/decoder",
+      "screenshot": "/screenshots/obrera/018-urltools.png"
     }
   ]
 }
