@@ -93,6 +93,17 @@ function withBase(pathname: string): string {
         color: #9ca3af;
         font-size: 0.9rem;
       }
+      .badge {
+        background: #1f2a44;
+        border: 1px solid #334a78;
+        border-radius: 999px;
+        color: #bfdbfe;
+        display: inline-block;
+        font-size: 0.75rem;
+        margin-top: 0.2rem;
+        padding: 0.15rem 0.55rem;
+        width: fit-content;
+      }
       .links {
         margin-top: auto;
         display: flex;
@@ -134,6 +145,7 @@ function withBase(pathname: string): string {
                   #{build.build} · {build.title}
                 </strong>
                 <div class="meta">{build.date}</div>
+                {build.model && <div class="badge">{build.model}</div>}
                 <p>{build.description}</p>
                 <div class="links">
                   <a href={build.repoUrl} target="_blank" rel="noreferrer">repo</a>

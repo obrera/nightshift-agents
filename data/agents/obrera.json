@@ -8,8 +8,9 @@
       "repoName": "nightshift-000-epoch",
       "repoUrl": "https://github.com/obrera/nightshift-000-epoch",
       "liveUrl": "https://epoch.colmena.dev",
-      "description": "Timestamp converter — Hono API + React UI",
-      "screenshot": "/screenshots/obrera/000-epoch.png"
+      "description": "Timestamp converter \u2014 Hono API + React UI",
+      "screenshot": "/screenshots/obrera/000-epoch.png",
+      "model": "anthropic/claude-opus-4-6"
     },
     {
       "build": "001",
@@ -18,8 +19,9 @@
       "repoName": "nightshift-001-qrcode",
       "repoUrl": "https://github.com/obrera/nightshift-001-qrcode",
       "liveUrl": "https://qr.colmena.dev",
-      "description": "QR code generator — Hono API + React UI",
-      "screenshot": "/screenshots/obrera/001-qrcode.png"
+      "description": "QR code generator \u2014 Hono API + React UI",
+      "screenshot": "/screenshots/obrera/001-qrcode.png",
+      "model": "anthropic/claude-opus-4-6"
     },
     {
       "build": "002",
@@ -28,8 +30,9 @@
       "repoName": "nightshift-002-markdown",
       "repoUrl": "https://github.com/obrera/nightshift-002-markdown",
       "liveUrl": "https://markdown.colmena.dev",
-      "description": "Markdown preview — live split-pane editor",
-      "screenshot": "/screenshots/obrera/002-markdown.png"
+      "description": "Markdown preview \u2014 live split-pane editor",
+      "screenshot": "/screenshots/obrera/002-markdown.png",
+      "model": "anthropic/claude-opus-4-6"
     },
     {
       "build": "002b",
@@ -38,8 +41,9 @@
       "repoName": "nightshift-002-palette",
       "repoUrl": "https://github.com/obrera/nightshift-002-palette",
       "liveUrl": "https://palette.colmena.dev",
-      "description": "Color palette generator — hex input, schemes",
-      "screenshot": "/screenshots/obrera/002b-palette.png"
+      "description": "Color palette generator \u2014 hex input, schemes",
+      "screenshot": "/screenshots/obrera/002b-palette.png",
+      "model": "anthropic/claude-opus-4-6"
     },
     {
       "build": "003",
@@ -48,8 +52,9 @@
       "repoName": "nightshift-003-pomodoro",
       "repoUrl": "https://github.com/obrera/nightshift-003-pomodoro",
       "liveUrl": "https://pomodoro.colmena.dev",
-      "description": "Pomodoro timer — work/break cycles, notifications",
-      "screenshot": "/screenshots/obrera/003-pomodoro.png"
+      "description": "Pomodoro timer \u2014 work/break cycles, notifications",
+      "screenshot": "/screenshots/obrera/003-pomodoro.png",
+      "model": "anthropic/claude-opus-4-6"
     },
     {
       "build": "004",
@@ -58,8 +63,9 @@
       "repoName": "nightshift-004-ascii",
       "repoUrl": "https://github.com/obrera/nightshift-004-ascii",
       "liveUrl": "https://ascii.colmena.dev",
-      "description": "ASCII art generator — figlet fonts, live preview",
-      "screenshot": "/screenshots/obrera/004-ascii.png"
+      "description": "ASCII art generator \u2014 figlet fonts, live preview",
+      "screenshot": "/screenshots/obrera/004-ascii.png",
+      "model": "anthropic/claude-opus-4-6"
     },
     {
       "build": "005",
@@ -68,8 +74,9 @@
       "repoName": "nightshift-005-json",
       "repoUrl": "https://github.com/obrera/nightshift-005-json",
       "liveUrl": "https://json.colmena.dev",
-      "description": "JSON Swiss Army Knife — format, validate, minify, diff",
-      "screenshot": "/screenshots/obrera/005-json.png"
+      "description": "JSON Swiss Army Knife \u2014 format, validate, minify, diff",
+      "screenshot": "/screenshots/obrera/005-json.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "006",
@@ -78,8 +85,9 @@
       "repoName": "nightshift-006-regex",
       "repoUrl": "https://github.com/obrera/nightshift-006-regex",
       "liveUrl": "https://regex.colmena.dev",
-      "description": "Regex tester — live matching, capture groups, cheat sheet",
-      "screenshot": "/screenshots/obrera/006-regex.png"
+      "description": "Regex tester \u2014 live matching, capture groups, cheat sheet",
+      "screenshot": "/screenshots/obrera/006-regex.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "007",
@@ -88,8 +96,9 @@
       "repoName": "nightshift-007-gradient",
       "repoUrl": "https://github.com/obrera/nightshift-007-gradient",
       "liveUrl": "https://gradient.colmena.dev",
-      "description": "CSS gradient generator — linear/radial/conic, presets, live preview",
-      "screenshot": "/screenshots/obrera/007-gradient.png"
+      "description": "CSS gradient generator \u2014 linear/radial/conic, presets, live preview",
+      "screenshot": "/screenshots/obrera/007-gradient.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "008",
@@ -98,8 +107,9 @@
       "repoName": "nightshift-008-cron",
       "repoUrl": "https://github.com/obrera/nightshift-008-cron",
       "liveUrl": "https://cron.colmena.dev",
-      "description": "Cron expression playground — parse, describe, next runs, weekly heatmap",
-      "screenshot": "/screenshots/obrera/008-cron.png"
+      "description": "Cron expression playground \u2014 parse, describe, next runs, weekly heatmap",
+      "screenshot": "/screenshots/obrera/008-cron.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "009",
@@ -108,8 +118,9 @@
       "repoName": "nightshift-009-shadow",
       "repoUrl": "https://github.com/obrera/nightshift-009-shadow",
       "liveUrl": "https://shadow.colmena.dev",
-      "description": "CSS box shadow generator — visual editor, layers, presets, live preview",
-      "screenshot": "/screenshots/obrera/009-shadow.png"
+      "description": "CSS box shadow generator \u2014 visual editor, layers, presets, live preview",
+      "screenshot": "/screenshots/obrera/009-shadow.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "010",
@@ -118,8 +129,9 @@
       "repoName": "nightshift-010-flexbox",
       "repoUrl": "https://github.com/obrera/nightshift-010-flexbox",
       "liveUrl": "https://flexbox.colmena.dev",
-      "description": "CSS Flexbox playground — visual editor, item controls, presets, live preview",
-      "screenshot": "/screenshots/obrera/010-flexbox.png"
+      "description": "CSS Flexbox playground \u2014 visual editor, item controls, presets, live preview",
+      "screenshot": "/screenshots/obrera/010-flexbox.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "011",
@@ -128,8 +140,9 @@
       "repoName": "nightshift-011-clamp",
       "repoUrl": "https://github.com/obrera/nightshift-011-clamp",
       "liveUrl": "https://clamp.colmena.dev",
-      "description": "CSS clamp() generator — fluid typography formula builder with live preview",
-      "screenshot": "/screenshots/obrera/011-clamp.png"
+      "description": "CSS clamp() generator \u2014 fluid typography formula builder with live preview",
+      "screenshot": "/screenshots/obrera/011-clamp.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "012",
@@ -138,8 +151,9 @@
       "repoName": "nightshift-012-passphrase",
       "repoUrl": "https://github.com/obrera/nightshift-012-passphrase",
       "liveUrl": "https://obrera.github.io/nightshift-012-passphrase/",
-      "description": "Passphrase generator — configurable memorable phrases with entropy estimate and one-click copy",
-      "screenshot": "/screenshots/obrera/012-passphrase.png"
+      "description": "Passphrase generator \u2014 configurable memorable phrases with entropy estimate and one-click copy",
+      "screenshot": "/screenshots/obrera/012-passphrase.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "013",
@@ -148,8 +162,9 @@
       "repoName": "nightshift-013-jwt",
       "repoUrl": "https://github.com/obrera/nightshift-013-jwt",
       "liveUrl": "https://obrera.github.io/nightshift-013-jwt/",
-      "description": "JWT Inspector — decode header/payload/signature locally with validation",
-      "screenshot": "/screenshots/obrera/013-jwt.png"
+      "description": "JWT Inspector \u2014 decode header/payload/signature locally with validation",
+      "screenshot": "/screenshots/obrera/013-jwt.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "014",
@@ -158,8 +173,9 @@
       "repoName": "nightshift-014-checksum",
       "repoUrl": "https://github.com/obrera/nightshift-014-checksum",
       "liveUrl": "https://obrera.github.io/nightshift-014-checksum/",
-      "description": "Checksum Studio — browser-based SHA hash generator for text (SHA-1/256/384/512)",
-      "screenshot": "/screenshots/obrera/014-checksum.png"
+      "description": "Checksum Studio \u2014 browser-based SHA hash generator for text (SHA-1/256/384/512)",
+      "screenshot": "/screenshots/obrera/014-checksum.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "015",
@@ -168,8 +184,9 @@
       "repoName": "nightshift-015-textcase",
       "repoUrl": "https://github.com/obrera/nightshift-015-textcase",
       "liveUrl": "https://obrera.github.io/nightshift-015-textcase/",
-      "description": "TextCase — convert text to uppercase, lowercase, title case, sentence case, and slug-case",
-      "screenshot": "/screenshots/obrera/015-textcase.png"
+      "description": "TextCase \u2014 convert text to uppercase, lowercase, title case, sentence case, and slug-case",
+      "screenshot": "/screenshots/obrera/015-textcase.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "016",
@@ -178,8 +195,9 @@
       "repoName": "nightshift-016-wordcount",
       "repoUrl": "https://github.com/obrera/nightshift-016-wordcount",
       "liveUrl": "https://obrera.github.io/nightshift-016-wordcount/",
-      "description": "WordCount — browser-based text analyzer with words, characters, lines, and reading-time stats",
-      "screenshot": "/screenshots/obrera/016-wordcount.png"
+      "description": "WordCount \u2014 browser-based text analyzer with words, characters, lines, and reading-time stats",
+      "screenshot": "/screenshots/obrera/016-wordcount.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "017",
@@ -188,8 +206,9 @@
       "repoName": "nightshift-017-base64",
       "repoUrl": "https://github.com/obrera/nightshift-017-base64",
       "liveUrl": "https://obrera.github.io/nightshift-017-base64/",
-      "description": "Base64 Buddy — browser-based Base64 encoder/decoder with instant text conversion",
-      "screenshot": "/screenshots/obrera/017-base64.png"
+      "description": "Base64 Buddy \u2014 browser-based Base64 encoder/decoder with instant text conversion",
+      "screenshot": "/screenshots/obrera/017-base64.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "018",
@@ -198,8 +217,9 @@
       "repoName": "nightshift-018-urltools",
       "repoUrl": "https://github.com/obrera/nightshift-018-urltools",
       "liveUrl": "https://obrera.github.io/nightshift-018-urltools/",
-      "description": "URLTools — browser-based URL component + Base64 encoder/decoder",
-      "screenshot": "/screenshots/obrera/018-urltools.png"
+      "description": "URLTools \u2014 browser-based URL component + Base64 encoder/decoder",
+      "screenshot": "/screenshots/obrera/018-urltools.png",
+      "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "019",
@@ -208,8 +228,9 @@
       "repoName": "nightshift-019-uuid",
       "repoUrl": "https://github.com/obrera/nightshift-019-uuid",
       "liveUrl": "https://obrera.github.io/nightshift-019-uuid/",
-      "description": "UUID Forge — browser-based UUID v4 generator and validator",
-      "screenshot": "/screenshots/obrera/019-uuid.png"
+      "description": "UUID Forge \u2014 browser-based UUID v4 generator and validator",
+      "screenshot": "/screenshots/obrera/019-uuid.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
