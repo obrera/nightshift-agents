@@ -9,6 +9,7 @@
     "astro": "astro",
     "add-build": "node scripts/add-build.mjs",
     "generate-screenshots": "node scripts/generate-screenshots.mjs",
+    "check:responsive": "node scripts/check-responsive.mjs",
     "validate:data": "node scripts/validate-model-metadata.mjs"
   },
   "dependencies": {

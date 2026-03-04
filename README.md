@@ -72,6 +72,14 @@ npm run validate:data
 
 This fails when any build entry is missing a `model` field (or uses an invalid model format).
 
+## Responsive check (for Nightshift wrap-up)
+
+```bash
+npm run check:responsive -- --url https://obrera.github.io/nightshift-019-uuid/
+```
+
+This checks mobile (`390x844`) and desktop (`1280x720`) for horizontal overflow and exits non-zero on failure.
+
 ## Generate screenshots
 
 ```bash
