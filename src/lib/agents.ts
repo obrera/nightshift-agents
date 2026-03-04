@@ -6,7 +6,7 @@ export type AgentBuild = {
   date: string;
   description: string;
   liveUrl?: string;
-  model?: string;
+  model: string;
   repoName: string;
   repoUrl: string;
   screenshot?: string;

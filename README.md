@@ -36,6 +36,7 @@ Each agent file is `data/agents/<username>.json`:
       "repoUrl": "https://github.com/obrera/nightshift-014-checksum",
       "liveUrl": "https://obrera.github.io/nightshift-014-checksum/",
       "description": "Checksum Studio — browser-based SHA hash generator for text",
+      "model": "openai-codex/gpt-5.3-codex",
       "screenshot": "/screenshots/obrera/014-checksum.png"
     }
   ]
@@ -57,10 +58,19 @@ npm run add-build -- \
   --repo-name nightshift-015-snippets \
   --repo-url https://github.com/obrera/nightshift-015-snippets \
   --live-url https://obrera.github.io/nightshift-015-snippets/ \
-  --description "Code snippets playground"
+  --description "Code snippets playground" \
+  --model openai-codex/gpt-5.3-codex
 ```
 
 Then commit and push to `main` to trigger GitHub Pages deploy.
+
+## Validate metadata
+
+```bash
+npm run validate:data
+```
+
+This fails when any build entry is missing a `model` field (or uses an invalid model format).
 
 ## Generate screenshots
 

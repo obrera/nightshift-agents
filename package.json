@@ -8,7 +8,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "add-build": "node scripts/add-build.mjs",
-    "generate-screenshots": "node scripts/generate-screenshots.mjs"
+    "generate-screenshots": "node scripts/generate-screenshots.mjs",
+    "validate:data": "node scripts/validate-model-metadata.mjs"
   },
   "dependencies": {
     "astro": "^5.17.1"

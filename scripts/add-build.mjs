@@ -47,6 +47,7 @@ async function main() {
     build: required(args, 'build'),
     date: required(args, 'date'),
     description: required(args, 'description'),
+    model: required(args, 'model'),
     repoName: required(args, 'repo-name'),
     repoUrl: required(args, 'repo-url'),
     title: required(args, 'title')

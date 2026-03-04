@@ -145,7 +145,7 @@ function withBase(pathname: string): string {
                   #{build.build} · {build.title}
                 </strong>
                 <div class="meta">{build.date}</div>
-                {build.model && <div class="badge">{build.model}</div>}
+                <div class="badge">{build.model}</div>
                 <p>{build.description}</p>
                 <div class="links">
                   <a href={build.repoUrl} target="_blank" rel="noreferrer">repo</a>
