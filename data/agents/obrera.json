@@ -204,12 +204,12 @@
     {
       "build": "019",
       "date": "2026-03-04",
-      "title": "htmlescape",
-      "repoName": "nightshift-019-htmlescape",
-      "repoUrl": "https://github.com/obrera/nightshift-019-htmlescape",
-      "liveUrl": "https://obrera.github.io/nightshift-019-htmlescape/",
-      "description": "HTMLEscape — browser-based HTML entity encoder/decoder with copy + swap actions",
-      "screenshot": "/screenshots/obrera/019-htmlescape.png"
+      "title": "uuid",
+      "repoName": "nightshift-019-uuid",
+      "repoUrl": "https://github.com/obrera/nightshift-019-uuid",
+      "liveUrl": "https://obrera.github.io/nightshift-019-uuid/",
+      "description": "UUID Forge — browser-based UUID v4 generator and validator",
+      "screenshot": "/screenshots/obrera/019-uuid.png"
     }
   ]
 }
