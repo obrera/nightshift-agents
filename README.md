@@ -91,9 +91,11 @@ Deterministic output path format:
 
 Behavior:
 
+- Uses a mobile viewport (`390x844`) so screenshots reflect responsive layouts
 - If screenshot file already exists and `--force` is not set: skip capture
 - Deleting a screenshot file will cause it to be regenerated on next run
 - `--force` always refreshes matching screenshots
+- Fails a capture when horizontal overflow is detected on mobile viewport (basic responsive guard)
 - Per-page failures are non-fatal; the script exits non-zero only when every targeted item fails
 
 ## Nightshift cron step (latest build screenshot)
