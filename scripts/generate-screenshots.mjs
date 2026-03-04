@@ -6,7 +6,6 @@ import { chromium } from 'playwright';
 
 const AGENTS_DIR = path.resolve(process.cwd(), 'data/agents');
 const PUBLIC_DIR = path.resolve(process.cwd(), 'public');
-const MOBILE_VIEWPORT = { width: 390, height: 844 };
 
 function parseArgs(argv) {
   const map = new Map();
@@ -93,34 +92,8 @@ async function screenshotBuild(context, username, build, force) {
 
   try {
     await mkdir(path.dirname(target.absolute), { recursive: true });
-    await page.goto(build.liveUrl, { timeout: 30_000, waitUntil: 'networkidle' });
-    await page.waitForTimeout(500);
-
-    const responsive = await page.evaluate(() => {
-      const doc = document.documentElement;
-      const body = document.body;
-      const viewportWidth = window.innerWidth;
-      const scrollWidth = Math.max(
-        doc?.scrollWidth ?? 0,
-        body?.scrollWidth ?? 0,
-        doc?.offsetWidth ?? 0,
-        body?.offsetWidth ?? 0
-      );
-
-      return {
-        isResponsive: scrollWidth <= viewportWidth + 1,
-        scrollWidth,
-        viewportWidth
-      };
-    });
-
-    if (!responsive.isResponsive) {
-      return {
-        status: 'failed',
-        error: `page appears non-responsive (scrollWidth=${responsive.scrollWidth}, viewportWidth=${responsive.viewportWidth})`
-      };
-    }
-
+    await page.setViewportSize({ width: 1280, height: 720 });
+    await page.goto(build.liveUrl, { timeout: 30_000, waitUntil: 'domcontentloaded' });
     await page.screenshot({ path: target.absolute, fullPage: false });
     build.screenshot = target.relative;
 
@@ -143,13 +116,7 @@ async function main() {
 
   const files = await listAgentFiles(usernameFilter);
   const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext({
-    deviceScaleFactor: 2,
-    hasTouch: true,
-    ignoreHTTPSErrors: true,
-    isMobile: true,
-    viewport: MOBILE_VIEWPORT
-  });
+  const context = await browser.newContext({ ignoreHTTPSErrors: true });
 
   let targetCount = 0;
   let successCount = 0;
