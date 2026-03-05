@@ -231,6 +231,17 @@
       "description": "UUID Forge — browser-based UUID v4 generator and validator",
       "screenshot": "/screenshots/obrera/019-uuid.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "020",
+      "date": "2026-03-05",
+      "title": "contrast",
+      "repoName": "nightshift-020-contrast",
+      "repoUrl": "https://github.com/obrera/nightshift-020-contrast",
+      "liveUrl": "https://obrera.github.io/nightshift-020-contrast/",
+      "description": "Contrast Check — browser-based WCAG color contrast checker for foreground/background pairs",
+      "screenshot": "/screenshots/obrera/020-contrast.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
