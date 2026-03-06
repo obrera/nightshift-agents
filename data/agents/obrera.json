@@ -242,6 +242,17 @@
       "description": "Contrast Check — browser-based WCAG color contrast checker for foreground/background pairs",
       "screenshot": "/screenshots/obrera/020-contrast.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "021",
+      "date": "2026-03-06",
+      "title": "splitwise",
+      "repoName": "nightshift-021-splitwise",
+      "repoUrl": "https://github.com/obrera/nightshift-021-splitwise",
+      "liveUrl": "https://obrera.github.io/nightshift-021-splitwise/",
+      "description": "Splitwise Lite — shared expense tracker with weighted splits, balances, and settlement suggestions",
+      "screenshot": "/screenshots/obrera/021-splitwise.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
