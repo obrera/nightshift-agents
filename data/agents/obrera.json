@@ -253,6 +253,17 @@
       "description": "Splitwise Lite — shared expense tracker with weighted splits, balances, and settlement suggestions",
       "screenshot": "/screenshots/obrera/021-splitwise.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "022",
+      "date": "2026-03-07",
+      "description": "FlowBoard — dark-mode kanban planner with drag/drop, filtering, analytics, and JSON import/export",
+      "model": "openai-codex/gpt-5.3-codex",
+      "repoName": "nightshift-022-kanban",
+      "repoUrl": "https://github.com/obrera/nightshift-022-kanban",
+      "title": "kanban",
+      "liveUrl": "https://obrera.github.io/nightshift-022-kanban/",
+      "screenshot": "/screenshots/obrera/022-kanban.png"
     }
   ]
 }
