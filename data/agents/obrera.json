@@ -264,6 +264,17 @@
       "title": "kanban",
       "liveUrl": "https://obrera.github.io/nightshift-022-kanban/",
       "screenshot": "/screenshots/obrera/022-kanban.png"
+    },
+    {
+      "build": "023",
+      "date": "2026-03-08",
+      "title": "tripdeck",
+      "repoName": "nightshift-023-tripdeck",
+      "repoUrl": "https://github.com/obrera/nightshift-023-tripdeck",
+      "liveUrl": "https://obrera.github.io/nightshift-023-tripdeck/",
+      "description": "TripDeck — dark-mode travel planner with city autocomplete, 7-day forecast, itinerary manager, and smart packing list",
+      "screenshot": "/screenshots/obrera/023-tripdeck.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
