@@ -286,6 +286,17 @@
       "title": "mealmap",
       "liveUrl": "https://obrera.github.io/nightshift-024-mealmap/",
       "screenshot": "/screenshots/obrera/024-mealmap.png"
+    },
+    {
+      "build": "025",
+      "date": "2026-03-10",
+      "title": "readradar",
+      "repoName": "nightshift-025-readradar",
+      "repoUrl": "https://github.com/obrera/nightshift-025-readradar",
+      "liveUrl": "https://obrera.github.io/nightshift-025-readradar/",
+      "description": "ReadRadar — dark-mode reading discovery dashboard with Open Library search, subject trends, queue tracking, and JSON import/export",
+      "screenshot": "/screenshots/obrera/025-readradar.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
