@@ -297,6 +297,17 @@
       "description": "ReadRadar — dark-mode reading discovery dashboard with Open Library search, subject trends, queue tracking, and JSON import/export",
       "screenshot": "/screenshots/obrera/025-readradar.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "026",
+      "date": "2026-03-11",
+      "title": "reposcout",
+      "repoName": "nightshift-026-reposcout",
+      "repoUrl": "https://github.com/obrera/nightshift-026-reposcout",
+      "liveUrl": "https://obrera.github.io/nightshift-026-reposcout/",
+      "description": "RepoScout — dark-mode GitHub discovery dashboard with repo search, side-by-side comparison, and deep inspection (contributors, commits, issues)",
+      "screenshot": "/screenshots/obrera/026-reposcout.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
