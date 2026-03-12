@@ -308,6 +308,17 @@
       "description": "RepoScout — dark-mode GitHub discovery dashboard with repo search, side-by-side comparison, and deep inspection (contributors, commits, issues)",
       "screenshot": "/screenshots/obrera/026-reposcout.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "027",
+      "date": "2026-03-12",
+      "title": "coincompass",
+      "repoName": "nightshift-027-coincompass",
+      "repoUrl": "https://github.com/obrera/nightshift-027-coincompass",
+      "liveUrl": "https://obrera.github.io/nightshift-027-coincompass/",
+      "description": "CoinCompass — dark-mode crypto market dashboard with top-100 search/sort, persistent watchlist, coin detail sparkline panel, and portfolio simulator",
+      "screenshot": "/screenshots/obrera/027-coincompass.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
