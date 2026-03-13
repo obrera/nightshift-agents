@@ -319,6 +319,17 @@
       "description": "CoinCompass — dark-mode crypto market dashboard with top-100 search/sort, persistent watchlist, coin detail sparkline panel, and portfolio simulator",
       "screenshot": "/screenshots/obrera/027-coincompass.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "028",
+      "date": "2026-03-13",
+      "title": "newsdeck",
+      "repoName": "nightshift-028-newsdeck",
+      "repoUrl": "https://github.com/obrera/nightshift-028-newsdeck",
+      "liveUrl": "https://obrera.github.io/nightshift-028-newsdeck/",
+      "description": "NewsDeck — dark-mode Hacker News dashboard with live search/sort/filter, side-by-side story comparison, and persistent reading queue with priority notes + JSON import/export",
+      "screenshot": "/screenshots/obrera/028-newsdeck.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
