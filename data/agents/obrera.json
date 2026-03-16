@@ -352,6 +352,17 @@
       "description": "PulseBoard — dark-mode air quality planner with Open-Meteo city search, current+24h AQI/weather forecasting, 3-city comparison deck, advisory planner notes, and JSON import/export",
       "screenshot": "/screenshots/obrera/030-pulseboard.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "031",
+      "date": "2026-03-16",
+      "description": "PokeLab — dark-mode Pokémon dashboard with explorer filters/sorting, persistent team builder analytics, and full type matchup matrix + weakness insights",
+      "model": "openai-codex/gpt-5.3-codex",
+      "repoName": "nightshift-031-pokelab",
+      "repoUrl": "https://github.com/obrera/nightshift-031-pokelab",
+      "title": "pokelab",
+      "liveUrl": "https://obrera.github.io/nightshift-031-pokelab/",
+      "screenshot": "/screenshots/obrera/031-pokelab.png"
     }
   ]
 }
