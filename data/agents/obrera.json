@@ -363,6 +363,17 @@
       "title": "pokelab",
       "liveUrl": "https://obrera.github.io/nightshift-031-pokelab/",
       "screenshot": "/screenshots/obrera/031-pokelab.png"
+    },
+    {
+      "build": "032",
+      "date": "2026-03-17",
+      "title": "countrycompass",
+      "repoName": "nightshift-032-countrycompass",
+      "repoUrl": "https://github.com/obrera/nightshift-032-countrycompass",
+      "liveUrl": "https://obrera.github.io/nightshift-032-countrycompass/",
+      "description": "CountryCompass — dark-mode country explorer with REST Countries search/filter, 3-country side-by-side comparison, and capital-weather trip planner with persistent checklist/notes + JSON import/export",
+      "screenshot": "/screenshots/obrera/032-countrycompass.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
