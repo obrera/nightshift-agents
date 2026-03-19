@@ -385,6 +385,17 @@
       "description": "PackagePilot — dark-mode npm package intelligence dashboard with search/filtering, 3-package side-by-side comparison, and persistent watchlist notes with JSON import/export plus bundle size lookup",
       "screenshot": "/screenshots/obrera/033-packagepilot.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "034",
+      "date": "2026-03-19",
+      "title": "spacewatch",
+      "repoName": "nightshift-034-spacewatch",
+      "repoUrl": "https://github.com/obrera/nightshift-034-spacewatch",
+      "liveUrl": "https://obrera.github.io/nightshift-034-spacewatch/",
+      "description": "SpaceWatch — dark-mode mission-control dashboard with NASA APOD explorer (favorites), NEO risk board (hazard filter + insights), launch tracker (countdowns/status), and local mission planner with JSON import/export",
+      "screenshot": "/screenshots/obrera/034-spacewatch.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
