@@ -396,6 +396,17 @@
       "description": "SpaceWatch — dark-mode mission-control dashboard with NASA APOD explorer (favorites), NEO risk board (hazard filter + insights), launch tracker (countdowns/status), and local mission planner with JSON import/export",
       "screenshot": "/screenshots/obrera/034-spacewatch.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "035",
+      "date": "2026-03-20",
+      "description": "LexiLab — dark-mode vocabulary studio with dictionary explorer (phonetics/audio/definitions), Datamuse synonym+association pivots, persistent practice deck quiz with streak scoring, and JSON import/export",
+      "model": "openai-codex/gpt-5.3-codex",
+      "repoName": "nightshift-035-lexilab",
+      "repoUrl": "https://github.com/obrera/nightshift-035-lexilab",
+      "title": "lexilab",
+      "liveUrl": "https://obrera.github.io/nightshift-035-lexilab/",
+      "screenshot": "/screenshots/obrera/035-lexilab.png"
     }
   ]
 }
