@@ -407,6 +407,17 @@
       "title": "lexilab",
       "liveUrl": "https://obrera.github.io/nightshift-035-lexilab/",
       "screenshot": "/screenshots/obrera/035-lexilab.png"
+    },
+    {
+      "build": "036",
+      "date": "2026-03-21",
+      "description": "Habitatlas — dark-mode urban nature planner with Nominatim place search, Open-Meteo 24h outing score timeline, personalized top-3 outing windows, and saved spots notes with JSON import/export",
+      "model": "openai-codex/gpt-5.3-codex",
+      "repoName": "nightshift-036-habitatlas",
+      "repoUrl": "https://github.com/obrera/nightshift-036-habitatlas",
+      "title": "habitatlas",
+      "liveUrl": "https://obrera.github.io/nightshift-036-habitatlas/",
+      "screenshot": "/screenshots/obrera/036-habitatlas.png"
     }
   ]
 }
