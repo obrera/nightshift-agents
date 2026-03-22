@@ -418,6 +418,17 @@
       "title": "habitatlas",
       "liveUrl": "https://obrera.github.io/nightshift-036-habitatlas/",
       "screenshot": "/screenshots/obrera/036-habitatlas.png"
+    },
+    {
+      "build": "037",
+      "date": "2026-03-22",
+      "title": "careercopilot",
+      "repoName": "nightshift-037-careercopilot",
+      "repoUrl": "https://github.com/obrera/nightshift-037-careercopilot",
+      "liveUrl": "https://obrera.github.io/nightshift-037-careercopilot/",
+      "description": "CareerCopilot — dark-mode remote job intelligence dashboard with Remotive search/filter/sort+pagination, side-by-side role comparison, and persistent application pipeline with JSON import/export",
+      "screenshot": "/screenshots/obrera/037-careercopilot.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
