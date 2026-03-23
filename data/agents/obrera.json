@@ -429,6 +429,17 @@
       "description": "CareerCopilot — dark-mode remote job intelligence dashboard with Remotive search/filter/sort+pagination, side-by-side role comparison, and persistent application pipeline with JSON import/export",
       "screenshot": "/screenshots/obrera/037-careercopilot.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "038",
+      "date": "2026-03-23",
+      "title": "trailcast",
+      "repoName": "nightshift-038-trailcast",
+      "repoUrl": "https://github.com/obrera/nightshift-038-trailcast",
+      "liveUrl": "https://obrera.github.io/nightshift-038-trailcast/",
+      "description": "TrailCast — dark-mode trail planning app with Nominatim place search, Open-Meteo 5-day+hourly forecast, readiness scoring planner, and saved plans with JSON import/export",
+      "screenshot": "/screenshots/obrera/038-trailcast.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
