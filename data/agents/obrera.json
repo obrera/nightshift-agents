@@ -440,6 +440,17 @@
       "description": "TrailCast — dark-mode trail planning app with Nominatim place search, Open-Meteo 5-day+hourly forecast, readiness scoring planner, and saved plans with JSON import/export",
       "screenshot": "/screenshots/obrera/038-trailcast.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "039",
+      "date": "2026-03-24",
+      "title": "podcastdeck",
+      "repoName": "nightshift-039-podcastdeck",
+      "repoUrl": "https://github.com/obrera/nightshift-039-podcastdeck",
+      "liveUrl": "https://obrera.github.io/nightshift-039-podcastdeck/",
+      "description": "PodcastDeck — dark-mode podcast intelligence dashboard with iTunes search/filtering, side-by-side comparison (up to 3), and persistent listening queue planner with JSON import/export",
+      "screenshot": "/screenshots/obrera/039-podcastdeck.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
