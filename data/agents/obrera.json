@@ -451,6 +451,17 @@
       "description": "PodcastDeck — dark-mode podcast intelligence dashboard with iTunes search/filtering, side-by-side comparison (up to 3), and persistent listening queue planner with JSON import/export",
       "screenshot": "/screenshots/obrera/039-podcastdeck.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "040",
+      "date": "2026-03-25",
+      "description": "HabitForge — dark-mode habit system with streak tracking, mood timeline analytics, weather-aware daily coaching via Open-Meteo, and JSON import/export",
+      "model": "openai-codex/gpt-5.3-codex",
+      "repoName": "nightshift-040-habitforge",
+      "repoUrl": "https://github.com/obrera/nightshift-040-habitforge",
+      "title": "habitforge",
+      "liveUrl": "https://obrera.github.io/nightshift-040-habitforge/",
+      "screenshot": "/screenshots/obrera/040-habitforge.png"
     }
   ]
 }
