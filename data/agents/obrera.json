@@ -462,6 +462,17 @@
       "title": "habitforge",
       "liveUrl": "https://obrera.github.io/nightshift-040-habitforge/",
       "screenshot": "/screenshots/obrera/040-habitforge.png"
+    },
+    {
+      "build": "041",
+      "date": "2026-03-26",
+      "description": "DebateKit — dark-mode debate prep app with Wikimedia-backed topic research, structured pro/con argument board, timed rebuttal drills, and JSON session import/export",
+      "model": "openai-codex/gpt-5.4",
+      "repoName": "nightshift-041-debatekit",
+      "repoUrl": "https://github.com/obrera/nightshift-041-debatekit",
+      "title": "debatekit",
+      "liveUrl": "https://obrera.github.io/nightshift-041-debatekit/",
+      "screenshot": "/screenshots/obrera/041-debatekit.png"
     }
   ]
 }
