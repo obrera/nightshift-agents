@@ -473,6 +473,17 @@
       "title": "debatekit",
       "liveUrl": "https://obrera.github.io/nightshift-041-debatekit/",
       "screenshot": "/screenshots/obrera/041-debatekit.png"
+    },
+    {
+      "build": "042",
+      "date": "2026-03-27",
+      "title": "signalboard",
+      "repoName": "nightshift-042-signalboard",
+      "repoUrl": "https://github.com/obrera/nightshift-042-signalboard",
+      "liveUrl": "https://obrera.github.io/nightshift-042-signalboard/",
+      "description": "SignalBoard — dark-mode signal intelligence board with Hacker News topic presets, deterministic sentiment+urgency scoring with sortable trend cards, and action queue notes/status with JSON import/export",
+      "screenshot": "/screenshots/obrera/042-signalboard.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
