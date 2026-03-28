@@ -484,6 +484,17 @@
       "description": "SignalBoard — dark-mode signal intelligence board with Hacker News topic presets, deterministic sentiment+urgency scoring with sortable trend cards, and action queue notes/status with JSON import/export",
       "screenshot": "/screenshots/obrera/042-signalboard.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "043",
+      "date": "2026-03-28",
+      "title": "timeweaver",
+      "repoName": "nightshift-043-timeweaver",
+      "repoUrl": "https://github.com/obrera/nightshift-043-timeweaver",
+      "liveUrl": "https://obrera.github.io/nightshift-043-timeweaver/",
+      "description": "TimeWeaver — dark-mode global meeting planner with timezone overlap scoring, country holiday conflict checks, local-time timeline grid, and shareable link-pack with JSON import/export",
+      "screenshot": "/screenshots/obrera/043-timeweaver.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
