@@ -495,6 +495,17 @@
       "description": "TimeWeaver — dark-mode global meeting planner with timezone overlap scoring, country holiday conflict checks, local-time timeline grid, and shareable link-pack with JSON import/export",
       "screenshot": "/screenshots/obrera/043-timeweaver.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "044",
+      "date": "2026-03-29",
+      "title": "econatlas",
+      "repoName": "nightshift-044-econatlas",
+      "repoUrl": "https://github.com/obrera/nightshift-044-econatlas",
+      "liveUrl": "https://obrera.github.io/nightshift-044-econatlas/",
+      "description": "EconAtlas — dark-mode macro indicator lab with World Bank indicator explorer, 3-country trend comparison, and persistent dashboard notes with JSON import/export",
+      "screenshot": "/screenshots/obrera/044-econatlas.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
