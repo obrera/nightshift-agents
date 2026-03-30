@@ -506,6 +506,17 @@
       "description": "EconAtlas — dark-mode macro indicator lab with World Bank indicator explorer, 3-country trend comparison, and persistent dashboard notes with JSON import/export",
       "screenshot": "/screenshots/obrera/044-econatlas.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "045",
+      "date": "2026-03-30",
+      "title": "incidentdesk",
+      "repoName": "nightshift-045-incidentdesk",
+      "repoUrl": "https://github.com/obrera/nightshift-045-incidentdesk",
+      "liveUrl": "https://incidentdesk045.colmena.dev",
+      "description": "IncidentDesk — dark-mode incident operations workspace with incident lifecycle management, timeline updates/comments, and SLA-focused dashboard analytics on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/045-incidentdesk.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
