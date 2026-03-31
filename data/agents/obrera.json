@@ -517,6 +517,17 @@
       "description": "IncidentDesk — dark-mode incident operations workspace with incident lifecycle management, timeline updates/comments, and SLA-focused dashboard analytics on server-side SQLite state",
       "screenshot": "/screenshots/obrera/045-incidentdesk.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "046",
+      "date": "2026-03-31",
+      "title": "releasebridge",
+      "repoName": "nightshift-046-releasebridge",
+      "repoUrl": "https://github.com/obrera/nightshift-046-releasebridge",
+      "liveUrl": "https://releasebridge046.colmena.dev",
+      "description": "ReleaseBridge — dark-mode release readiness cockpit with release lifecycle tracking, checklist completion workflows, blocker/decision timeline logging, and dashboard risk metrics on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/046-releasebridge.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
