@@ -528,6 +528,17 @@
       "description": "ReleaseBridge — dark-mode release readiness cockpit with release lifecycle tracking, checklist completion workflows, blocker/decision timeline logging, and dashboard risk metrics on server-side SQLite state",
       "screenshot": "/screenshots/obrera/046-releasebridge.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "047",
+      "date": "2026-04-01",
+      "title": "opsledger",
+      "repoName": "nightshift-047-opsledger",
+      "repoUrl": "https://github.com/obrera/nightshift-047-opsledger",
+      "liveUrl": "https://opsledger047.colmena.dev",
+      "description": "OpsLedger — dark-mode change and incident operations workspace with ledger CRUD, approval workflow, deployment window conflict planning, and trend analytics on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/047-opsledger.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
