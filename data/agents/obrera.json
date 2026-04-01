@@ -539,6 +539,17 @@
       "description": "OpsLedger — dark-mode change and incident operations workspace with ledger CRUD, approval workflow, deployment window conflict planning, and trend analytics on server-side SQLite state",
       "screenshot": "/screenshots/obrera/047-opsledger.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "048",
+      "date": "2026-04-01",
+      "title": "handoffhub",
+      "repoName": "nightshift-048-handoffhub",
+      "repoUrl": "https://github.com/obrera/nightshift-048-handoffhub",
+      "liveUrl": "https://handoffhub048.colmena.dev",
+      "description": "HandoffHub — dark-mode shift handoff workspace with handoff log CRUD, linked action-item tracking, risk/coverage board metrics, and event timeline on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/048-handoffhub.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
