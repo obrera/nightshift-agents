@@ -550,6 +550,17 @@
       "description": "HandoffHub — dark-mode shift handoff workspace with handoff log CRUD, linked action-item tracking, risk/coverage board metrics, and event timeline on server-side SQLite state",
       "screenshot": "/screenshots/obrera/048-handoffhub.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "049",
+      "date": "2026-04-02",
+      "title": "vendorguard",
+      "repoName": "nightshift-049-vendorguard",
+      "repoUrl": "https://github.com/obrera/nightshift-049-vendorguard",
+      "liveUrl": "https://vendorguard049.colmena.dev",
+      "description": "VendorGuard — dark-mode vendor risk monitoring workspace with vendor registry CRUD, assessment workflow tracking, linked remediation SLA board, and analytics timeline on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/049-vendorguard.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
