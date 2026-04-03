@@ -8,7 +8,7 @@
       "repoName": "nightshift-000-epoch",
       "repoUrl": "https://github.com/obrera/nightshift-000-epoch",
       "liveUrl": "https://epoch.colmena.dev",
-      "description": "Timestamp converter — Hono API + React UI",
+      "description": "Timestamp converter \u2014 Hono API + React UI",
       "screenshot": "/screenshots/obrera/000-epoch.png",
       "model": "anthropic/claude-opus-4-6"
     },
@@ -19,7 +19,7 @@
       "repoName": "nightshift-001-qrcode",
       "repoUrl": "https://github.com/obrera/nightshift-001-qrcode",
       "liveUrl": "https://qr.colmena.dev",
-      "description": "QR code generator — Hono API + React UI",
+      "description": "QR code generator \u2014 Hono API + React UI",
       "screenshot": "/screenshots/obrera/001-qrcode.png",
       "model": "anthropic/claude-opus-4-6"
     },
@@ -30,7 +30,7 @@
       "repoName": "nightshift-002-markdown",
       "repoUrl": "https://github.com/obrera/nightshift-002-markdown",
       "liveUrl": "https://markdown.colmena.dev",
-      "description": "Markdown preview — live split-pane editor",
+      "description": "Markdown preview \u2014 live split-pane editor",
       "screenshot": "/screenshots/obrera/002-markdown.png",
       "model": "anthropic/claude-opus-4-6"
     },
@@ -41,7 +41,7 @@
       "repoName": "nightshift-002-palette",
       "repoUrl": "https://github.com/obrera/nightshift-002-palette",
       "liveUrl": "https://palette.colmena.dev",
-      "description": "Color palette generator — hex input, schemes",
+      "description": "Color palette generator \u2014 hex input, schemes",
       "screenshot": "/screenshots/obrera/002b-palette.png",
       "model": "anthropic/claude-opus-4-6"
     },
@@ -52,7 +52,7 @@
       "repoName": "nightshift-003-pomodoro",
       "repoUrl": "https://github.com/obrera/nightshift-003-pomodoro",
       "liveUrl": "https://pomodoro.colmena.dev",
-      "description": "Pomodoro timer — work/break cycles, notifications",
+      "description": "Pomodoro timer \u2014 work/break cycles, notifications",
       "screenshot": "/screenshots/obrera/003-pomodoro.png",
       "model": "anthropic/claude-opus-4-6"
     },
@@ -63,7 +63,7 @@
       "repoName": "nightshift-004-ascii",
       "repoUrl": "https://github.com/obrera/nightshift-004-ascii",
       "liveUrl": "https://ascii.colmena.dev",
-      "description": "ASCII art generator — figlet fonts, live preview",
+      "description": "ASCII art generator \u2014 figlet fonts, live preview",
       "screenshot": "/screenshots/obrera/004-ascii.png",
       "model": "anthropic/claude-opus-4-6"
     },
@@ -74,7 +74,7 @@
       "repoName": "nightshift-005-json",
       "repoUrl": "https://github.com/obrera/nightshift-005-json",
       "liveUrl": "https://json.colmena.dev",
-      "description": "JSON Swiss Army Knife — format, validate, minify, diff",
+      "description": "JSON Swiss Army Knife \u2014 format, validate, minify, diff",
       "screenshot": "/screenshots/obrera/005-json.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -85,7 +85,7 @@
       "repoName": "nightshift-006-regex",
       "repoUrl": "https://github.com/obrera/nightshift-006-regex",
       "liveUrl": "https://regex.colmena.dev",
-      "description": "Regex tester — live matching, capture groups, cheat sheet",
+      "description": "Regex tester \u2014 live matching, capture groups, cheat sheet",
       "screenshot": "/screenshots/obrera/006-regex.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -96,7 +96,7 @@
       "repoName": "nightshift-007-gradient",
       "repoUrl": "https://github.com/obrera/nightshift-007-gradient",
       "liveUrl": "https://gradient.colmena.dev",
-      "description": "CSS gradient generator — linear/radial/conic, presets, live preview",
+      "description": "CSS gradient generator \u2014 linear/radial/conic, presets, live preview",
       "screenshot": "/screenshots/obrera/007-gradient.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -107,7 +107,7 @@
       "repoName": "nightshift-008-cron",
       "repoUrl": "https://github.com/obrera/nightshift-008-cron",
       "liveUrl": "https://cron.colmena.dev",
-      "description": "Cron expression playground — parse, describe, next runs, weekly heatmap",
+      "description": "Cron expression playground \u2014 parse, describe, next runs, weekly heatmap",
       "screenshot": "/screenshots/obrera/008-cron.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -118,7 +118,7 @@
       "repoName": "nightshift-009-shadow",
       "repoUrl": "https://github.com/obrera/nightshift-009-shadow",
       "liveUrl": "https://shadow.colmena.dev",
-      "description": "CSS box shadow generator — visual editor, layers, presets, live preview",
+      "description": "CSS box shadow generator \u2014 visual editor, layers, presets, live preview",
       "screenshot": "/screenshots/obrera/009-shadow.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -129,7 +129,7 @@
       "repoName": "nightshift-010-flexbox",
       "repoUrl": "https://github.com/obrera/nightshift-010-flexbox",
       "liveUrl": "https://flexbox.colmena.dev",
-      "description": "CSS Flexbox playground — visual editor, item controls, presets, live preview",
+      "description": "CSS Flexbox playground \u2014 visual editor, item controls, presets, live preview",
       "screenshot": "/screenshots/obrera/010-flexbox.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -140,7 +140,7 @@
       "repoName": "nightshift-011-clamp",
       "repoUrl": "https://github.com/obrera/nightshift-011-clamp",
       "liveUrl": "https://clamp.colmena.dev",
-      "description": "CSS clamp() generator — fluid typography formula builder with live preview",
+      "description": "CSS clamp() generator \u2014 fluid typography formula builder with live preview",
       "screenshot": "/screenshots/obrera/011-clamp.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -151,7 +151,7 @@
       "repoName": "nightshift-012-passphrase",
       "repoUrl": "https://github.com/obrera/nightshift-012-passphrase",
       "liveUrl": "https://obrera.github.io/nightshift-012-passphrase/",
-      "description": "Passphrase generator — configurable memorable phrases with entropy estimate and one-click copy",
+      "description": "Passphrase generator \u2014 configurable memorable phrases with entropy estimate and one-click copy",
       "screenshot": "/screenshots/obrera/012-passphrase.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -162,7 +162,7 @@
       "repoName": "nightshift-013-jwt",
       "repoUrl": "https://github.com/obrera/nightshift-013-jwt",
       "liveUrl": "https://obrera.github.io/nightshift-013-jwt/",
-      "description": "JWT Inspector — decode header/payload/signature locally with validation",
+      "description": "JWT Inspector \u2014 decode header/payload/signature locally with validation",
       "screenshot": "/screenshots/obrera/013-jwt.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -173,7 +173,7 @@
       "repoName": "nightshift-014-checksum",
       "repoUrl": "https://github.com/obrera/nightshift-014-checksum",
       "liveUrl": "https://obrera.github.io/nightshift-014-checksum/",
-      "description": "Checksum Studio — browser-based SHA hash generator for text (SHA-1/256/384/512)",
+      "description": "Checksum Studio \u2014 browser-based SHA hash generator for text (SHA-1/256/384/512)",
       "screenshot": "/screenshots/obrera/014-checksum.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -184,7 +184,7 @@
       "repoName": "nightshift-015-textcase",
       "repoUrl": "https://github.com/obrera/nightshift-015-textcase",
       "liveUrl": "https://obrera.github.io/nightshift-015-textcase/",
-      "description": "TextCase — convert text to uppercase, lowercase, title case, sentence case, and slug-case",
+      "description": "TextCase \u2014 convert text to uppercase, lowercase, title case, sentence case, and slug-case",
       "screenshot": "/screenshots/obrera/015-textcase.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -195,7 +195,7 @@
       "repoName": "nightshift-016-wordcount",
       "repoUrl": "https://github.com/obrera/nightshift-016-wordcount",
       "liveUrl": "https://obrera.github.io/nightshift-016-wordcount/",
-      "description": "WordCount — browser-based text analyzer with words, characters, lines, and reading-time stats",
+      "description": "WordCount \u2014 browser-based text analyzer with words, characters, lines, and reading-time stats",
       "screenshot": "/screenshots/obrera/016-wordcount.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -206,7 +206,7 @@
       "repoName": "nightshift-017-base64",
       "repoUrl": "https://github.com/obrera/nightshift-017-base64",
       "liveUrl": "https://obrera.github.io/nightshift-017-base64/",
-      "description": "Base64 Buddy — browser-based Base64 encoder/decoder with instant text conversion",
+      "description": "Base64 Buddy \u2014 browser-based Base64 encoder/decoder with instant text conversion",
       "screenshot": "/screenshots/obrera/017-base64.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -217,7 +217,7 @@
       "repoName": "nightshift-018-urltools",
       "repoUrl": "https://github.com/obrera/nightshift-018-urltools",
       "liveUrl": "https://obrera.github.io/nightshift-018-urltools/",
-      "description": "URLTools — browser-based URL component + Base64 encoder/decoder",
+      "description": "URLTools \u2014 browser-based URL component + Base64 encoder/decoder",
       "screenshot": "/screenshots/obrera/018-urltools.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -228,7 +228,7 @@
       "repoName": "nightshift-019-uuid",
       "repoUrl": "https://github.com/obrera/nightshift-019-uuid",
       "liveUrl": "https://obrera.github.io/nightshift-019-uuid/",
-      "description": "UUID Forge — browser-based UUID v4 generator and validator",
+      "description": "UUID Forge \u2014 browser-based UUID v4 generator and validator",
       "screenshot": "/screenshots/obrera/019-uuid.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -239,7 +239,7 @@
       "repoName": "nightshift-020-contrast",
       "repoUrl": "https://github.com/obrera/nightshift-020-contrast",
       "liveUrl": "https://obrera.github.io/nightshift-020-contrast/",
-      "description": "Contrast Check — browser-based WCAG color contrast checker for foreground/background pairs",
+      "description": "Contrast Check \u2014 browser-based WCAG color contrast checker for foreground/background pairs",
       "screenshot": "/screenshots/obrera/020-contrast.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -250,14 +250,14 @@
       "repoName": "nightshift-021-splitwise",
       "repoUrl": "https://github.com/obrera/nightshift-021-splitwise",
       "liveUrl": "https://obrera.github.io/nightshift-021-splitwise/",
-      "description": "Splitwise Lite — shared expense tracker with weighted splits, balances, and settlement suggestions",
+      "description": "Splitwise Lite \u2014 shared expense tracker with weighted splits, balances, and settlement suggestions",
       "screenshot": "/screenshots/obrera/021-splitwise.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "022",
       "date": "2026-03-07",
-      "description": "FlowBoard — dark-mode kanban planner with drag/drop, filtering, analytics, and JSON import/export",
+      "description": "FlowBoard \u2014 dark-mode kanban planner with drag/drop, filtering, analytics, and JSON import/export",
       "model": "openai-codex/gpt-5.3-codex",
       "repoName": "nightshift-022-kanban",
       "repoUrl": "https://github.com/obrera/nightshift-022-kanban",
@@ -272,14 +272,14 @@
       "repoName": "nightshift-023-tripdeck",
       "repoUrl": "https://github.com/obrera/nightshift-023-tripdeck",
       "liveUrl": "https://obrera.github.io/nightshift-023-tripdeck/",
-      "description": "TripDeck — dark-mode travel planner with city autocomplete, 7-day forecast, itinerary manager, and smart packing list",
+      "description": "TripDeck \u2014 dark-mode travel planner with city autocomplete, 7-day forecast, itinerary manager, and smart packing list",
       "screenshot": "/screenshots/obrera/023-tripdeck.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "024",
       "date": "2026-03-09",
-      "description": "MealMap — dark-mode meal planning assistant with TheMealDB search, favorites, weekly servings planner, and auto-generated grocery list export",
+      "description": "MealMap \u2014 dark-mode meal planning assistant with TheMealDB search, favorites, weekly servings planner, and auto-generated grocery list export",
       "model": "openai-codex/gpt-5.3-codex",
       "repoName": "nightshift-024-mealmap",
       "repoUrl": "https://github.com/obrera/nightshift-024-mealmap",
@@ -294,7 +294,7 @@
       "repoName": "nightshift-025-readradar",
       "repoUrl": "https://github.com/obrera/nightshift-025-readradar",
       "liveUrl": "https://obrera.github.io/nightshift-025-readradar/",
-      "description": "ReadRadar — dark-mode reading discovery dashboard with Open Library search, subject trends, queue tracking, and JSON import/export",
+      "description": "ReadRadar \u2014 dark-mode reading discovery dashboard with Open Library search, subject trends, queue tracking, and JSON import/export",
       "screenshot": "/screenshots/obrera/025-readradar.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -305,7 +305,7 @@
       "repoName": "nightshift-026-reposcout",
       "repoUrl": "https://github.com/obrera/nightshift-026-reposcout",
       "liveUrl": "https://obrera.github.io/nightshift-026-reposcout/",
-      "description": "RepoScout — dark-mode GitHub discovery dashboard with repo search, side-by-side comparison, and deep inspection (contributors, commits, issues)",
+      "description": "RepoScout \u2014 dark-mode GitHub discovery dashboard with repo search, side-by-side comparison, and deep inspection (contributors, commits, issues)",
       "screenshot": "/screenshots/obrera/026-reposcout.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -316,7 +316,7 @@
       "repoName": "nightshift-027-coincompass",
       "repoUrl": "https://github.com/obrera/nightshift-027-coincompass",
       "liveUrl": "https://obrera.github.io/nightshift-027-coincompass/",
-      "description": "CoinCompass — dark-mode crypto market dashboard with top-100 search/sort, persistent watchlist, coin detail sparkline panel, and portfolio simulator",
+      "description": "CoinCompass \u2014 dark-mode crypto market dashboard with top-100 search/sort, persistent watchlist, coin detail sparkline panel, and portfolio simulator",
       "screenshot": "/screenshots/obrera/027-coincompass.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -327,7 +327,7 @@
       "repoName": "nightshift-028-newsdeck",
       "repoUrl": "https://github.com/obrera/nightshift-028-newsdeck",
       "liveUrl": "https://obrera.github.io/nightshift-028-newsdeck/",
-      "description": "NewsDeck — dark-mode Hacker News dashboard with live search/sort/filter, side-by-side story comparison, and persistent reading queue with priority notes + JSON import/export",
+      "description": "NewsDeck \u2014 dark-mode Hacker News dashboard with live search/sort/filter, side-by-side story comparison, and persistent reading queue with priority notes + JSON import/export",
       "screenshot": "/screenshots/obrera/028-newsdeck.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -338,7 +338,7 @@
       "repoName": "nightshift-029-showtracker",
       "repoUrl": "https://github.com/obrera/nightshift-029-showtracker",
       "liveUrl": "https://obrera.github.io/nightshift-029-showtracker/",
-      "description": "ShowTracker — dark-mode TV discovery and tracking dashboard with TVMaze search/filter, deep show insights (cast + episode stats), persistent watchlist management, upcoming episodes board, and JSON import/export",
+      "description": "ShowTracker \u2014 dark-mode TV discovery and tracking dashboard with TVMaze search/filter, deep show insights (cast + episode stats), persistent watchlist management, upcoming episodes board, and JSON import/export",
       "screenshot": "/screenshots/obrera/029-showtracker.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -349,14 +349,14 @@
       "repoName": "nightshift-030-pulseboard",
       "repoUrl": "https://github.com/obrera/nightshift-030-pulseboard",
       "liveUrl": "https://obrera.github.io/nightshift-030-pulseboard/",
-      "description": "PulseBoard — dark-mode air quality planner with Open-Meteo city search, current+24h AQI/weather forecasting, 3-city comparison deck, advisory planner notes, and JSON import/export",
+      "description": "PulseBoard \u2014 dark-mode air quality planner with Open-Meteo city search, current+24h AQI/weather forecasting, 3-city comparison deck, advisory planner notes, and JSON import/export",
       "screenshot": "/screenshots/obrera/030-pulseboard.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "031",
       "date": "2026-03-16",
-      "description": "PokeLab — dark-mode Pokémon dashboard with explorer filters/sorting, persistent team builder analytics, and full type matchup matrix + weakness insights",
+      "description": "PokeLab \u2014 dark-mode Pok\u00e9mon dashboard with explorer filters/sorting, persistent team builder analytics, and full type matchup matrix + weakness insights",
       "model": "openai-codex/gpt-5.3-codex",
       "repoName": "nightshift-031-pokelab",
       "repoUrl": "https://github.com/obrera/nightshift-031-pokelab",
@@ -371,7 +371,7 @@
       "repoName": "nightshift-032-countrycompass",
       "repoUrl": "https://github.com/obrera/nightshift-032-countrycompass",
       "liveUrl": "https://obrera.github.io/nightshift-032-countrycompass/",
-      "description": "CountryCompass — dark-mode country explorer with REST Countries search/filter, 3-country side-by-side comparison, and capital-weather trip planner with persistent checklist/notes + JSON import/export",
+      "description": "CountryCompass \u2014 dark-mode country explorer with REST Countries search/filter, 3-country side-by-side comparison, and capital-weather trip planner with persistent checklist/notes + JSON import/export",
       "screenshot": "/screenshots/obrera/032-countrycompass.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -382,7 +382,7 @@
       "repoName": "nightshift-033-packagepilot",
       "repoUrl": "https://github.com/obrera/nightshift-033-packagepilot",
       "liveUrl": "https://obrera.github.io/nightshift-033-packagepilot/",
-      "description": "PackagePilot — dark-mode npm package intelligence dashboard with search/filtering, 3-package side-by-side comparison, and persistent watchlist notes with JSON import/export plus bundle size lookup",
+      "description": "PackagePilot \u2014 dark-mode npm package intelligence dashboard with search/filtering, 3-package side-by-side comparison, and persistent watchlist notes with JSON import/export plus bundle size lookup",
       "screenshot": "/screenshots/obrera/033-packagepilot.png",
       "model": "openai-codex/gpt-5.4"
     },
@@ -393,14 +393,14 @@
       "repoName": "nightshift-034-spacewatch",
       "repoUrl": "https://github.com/obrera/nightshift-034-spacewatch",
       "liveUrl": "https://obrera.github.io/nightshift-034-spacewatch/",
-      "description": "SpaceWatch — dark-mode mission-control dashboard with NASA APOD explorer (favorites), NEO risk board (hazard filter + insights), launch tracker (countdowns/status), and local mission planner with JSON import/export",
+      "description": "SpaceWatch \u2014 dark-mode mission-control dashboard with NASA APOD explorer (favorites), NEO risk board (hazard filter + insights), launch tracker (countdowns/status), and local mission planner with JSON import/export",
       "screenshot": "/screenshots/obrera/034-spacewatch.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "035",
       "date": "2026-03-20",
-      "description": "LexiLab — dark-mode vocabulary studio with dictionary explorer (phonetics/audio/definitions), Datamuse synonym+association pivots, persistent practice deck quiz with streak scoring, and JSON import/export",
+      "description": "LexiLab \u2014 dark-mode vocabulary studio with dictionary explorer (phonetics/audio/definitions), Datamuse synonym+association pivots, persistent practice deck quiz with streak scoring, and JSON import/export",
       "model": "openai-codex/gpt-5.3-codex",
       "repoName": "nightshift-035-lexilab",
       "repoUrl": "https://github.com/obrera/nightshift-035-lexilab",
@@ -411,7 +411,7 @@
     {
       "build": "036",
       "date": "2026-03-21",
-      "description": "Habitatlas — dark-mode urban nature planner with Nominatim place search, Open-Meteo 24h outing score timeline, personalized top-3 outing windows, and saved spots notes with JSON import/export",
+      "description": "Habitatlas \u2014 dark-mode urban nature planner with Nominatim place search, Open-Meteo 24h outing score timeline, personalized top-3 outing windows, and saved spots notes with JSON import/export",
       "model": "openai-codex/gpt-5.3-codex",
       "repoName": "nightshift-036-habitatlas",
       "repoUrl": "https://github.com/obrera/nightshift-036-habitatlas",
@@ -426,7 +426,7 @@
       "repoName": "nightshift-037-careercopilot",
       "repoUrl": "https://github.com/obrera/nightshift-037-careercopilot",
       "liveUrl": "https://obrera.github.io/nightshift-037-careercopilot/",
-      "description": "CareerCopilot — dark-mode remote job intelligence dashboard with Remotive search/filter/sort+pagination, side-by-side role comparison, and persistent application pipeline with JSON import/export",
+      "description": "CareerCopilot \u2014 dark-mode remote job intelligence dashboard with Remotive search/filter/sort+pagination, side-by-side role comparison, and persistent application pipeline with JSON import/export",
       "screenshot": "/screenshots/obrera/037-careercopilot.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -437,7 +437,7 @@
       "repoName": "nightshift-038-trailcast",
       "repoUrl": "https://github.com/obrera/nightshift-038-trailcast",
       "liveUrl": "https://obrera.github.io/nightshift-038-trailcast/",
-      "description": "TrailCast — dark-mode trail planning app with Nominatim place search, Open-Meteo 5-day+hourly forecast, readiness scoring planner, and saved plans with JSON import/export",
+      "description": "TrailCast \u2014 dark-mode trail planning app with Nominatim place search, Open-Meteo 5-day+hourly forecast, readiness scoring planner, and saved plans with JSON import/export",
       "screenshot": "/screenshots/obrera/038-trailcast.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -448,14 +448,14 @@
       "repoName": "nightshift-039-podcastdeck",
       "repoUrl": "https://github.com/obrera/nightshift-039-podcastdeck",
       "liveUrl": "https://obrera.github.io/nightshift-039-podcastdeck/",
-      "description": "PodcastDeck — dark-mode podcast intelligence dashboard with iTunes search/filtering, side-by-side comparison (up to 3), and persistent listening queue planner with JSON import/export",
+      "description": "PodcastDeck \u2014 dark-mode podcast intelligence dashboard with iTunes search/filtering, side-by-side comparison (up to 3), and persistent listening queue planner with JSON import/export",
       "screenshot": "/screenshots/obrera/039-podcastdeck.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
     {
       "build": "040",
       "date": "2026-03-25",
-      "description": "HabitForge — dark-mode habit system with streak tracking, mood timeline analytics, weather-aware daily coaching via Open-Meteo, and JSON import/export",
+      "description": "HabitForge \u2014 dark-mode habit system with streak tracking, mood timeline analytics, weather-aware daily coaching via Open-Meteo, and JSON import/export",
       "model": "openai-codex/gpt-5.3-codex",
       "repoName": "nightshift-040-habitforge",
       "repoUrl": "https://github.com/obrera/nightshift-040-habitforge",
@@ -466,7 +466,7 @@
     {
       "build": "041",
       "date": "2026-03-26",
-      "description": "DebateKit — dark-mode debate prep app with Wikimedia-backed topic research, structured pro/con argument board, timed rebuttal drills, and JSON session import/export",
+      "description": "DebateKit \u2014 dark-mode debate prep app with Wikimedia-backed topic research, structured pro/con argument board, timed rebuttal drills, and JSON session import/export",
       "model": "openai-codex/gpt-5.4",
       "repoName": "nightshift-041-debatekit",
       "repoUrl": "https://github.com/obrera/nightshift-041-debatekit",
@@ -481,7 +481,7 @@
       "repoName": "nightshift-042-signalboard",
       "repoUrl": "https://github.com/obrera/nightshift-042-signalboard",
       "liveUrl": "https://obrera.github.io/nightshift-042-signalboard/",
-      "description": "SignalBoard — dark-mode signal intelligence board with Hacker News topic presets, deterministic sentiment+urgency scoring with sortable trend cards, and action queue notes/status with JSON import/export",
+      "description": "SignalBoard \u2014 dark-mode signal intelligence board with Hacker News topic presets, deterministic sentiment+urgency scoring with sortable trend cards, and action queue notes/status with JSON import/export",
       "screenshot": "/screenshots/obrera/042-signalboard.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -492,7 +492,7 @@
       "repoName": "nightshift-043-timeweaver",
       "repoUrl": "https://github.com/obrera/nightshift-043-timeweaver",
       "liveUrl": "https://obrera.github.io/nightshift-043-timeweaver/",
-      "description": "TimeWeaver — dark-mode global meeting planner with timezone overlap scoring, country holiday conflict checks, local-time timeline grid, and shareable link-pack with JSON import/export",
+      "description": "TimeWeaver \u2014 dark-mode global meeting planner with timezone overlap scoring, country holiday conflict checks, local-time timeline grid, and shareable link-pack with JSON import/export",
       "screenshot": "/screenshots/obrera/043-timeweaver.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -503,7 +503,7 @@
       "repoName": "nightshift-044-econatlas",
       "repoUrl": "https://github.com/obrera/nightshift-044-econatlas",
       "liveUrl": "https://obrera.github.io/nightshift-044-econatlas/",
-      "description": "EconAtlas — dark-mode macro indicator lab with World Bank indicator explorer, 3-country trend comparison, and persistent dashboard notes with JSON import/export",
+      "description": "EconAtlas \u2014 dark-mode macro indicator lab with World Bank indicator explorer, 3-country trend comparison, and persistent dashboard notes with JSON import/export",
       "screenshot": "/screenshots/obrera/044-econatlas.png",
       "model": "openai-codex/gpt-5.4"
     },
@@ -514,7 +514,7 @@
       "repoName": "nightshift-045-incidentdesk",
       "repoUrl": "https://github.com/obrera/nightshift-045-incidentdesk",
       "liveUrl": "https://incidentdesk045.colmena.dev",
-      "description": "IncidentDesk — dark-mode incident operations workspace with incident lifecycle management, timeline updates/comments, and SLA-focused dashboard analytics on server-side SQLite state",
+      "description": "IncidentDesk \u2014 dark-mode incident operations workspace with incident lifecycle management, timeline updates/comments, and SLA-focused dashboard analytics on server-side SQLite state",
       "screenshot": "/screenshots/obrera/045-incidentdesk.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -525,7 +525,7 @@
       "repoName": "nightshift-046-releasebridge",
       "repoUrl": "https://github.com/obrera/nightshift-046-releasebridge",
       "liveUrl": "https://releasebridge046.colmena.dev",
-      "description": "ReleaseBridge — dark-mode release readiness cockpit with release lifecycle tracking, checklist completion workflows, blocker/decision timeline logging, and dashboard risk metrics on server-side SQLite state",
+      "description": "ReleaseBridge \u2014 dark-mode release readiness cockpit with release lifecycle tracking, checklist completion workflows, blocker/decision timeline logging, and dashboard risk metrics on server-side SQLite state",
       "screenshot": "/screenshots/obrera/046-releasebridge.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -536,7 +536,7 @@
       "repoName": "nightshift-047-opsledger",
       "repoUrl": "https://github.com/obrera/nightshift-047-opsledger",
       "liveUrl": "https://opsledger047.colmena.dev",
-      "description": "OpsLedger — dark-mode change and incident operations workspace with ledger CRUD, approval workflow, deployment window conflict planning, and trend analytics on server-side SQLite state",
+      "description": "OpsLedger \u2014 dark-mode change and incident operations workspace with ledger CRUD, approval workflow, deployment window conflict planning, and trend analytics on server-side SQLite state",
       "screenshot": "/screenshots/obrera/047-opsledger.png",
       "model": "openai-codex/gpt-5.4"
     },
@@ -547,7 +547,7 @@
       "repoName": "nightshift-048-handoffhub",
       "repoUrl": "https://github.com/obrera/nightshift-048-handoffhub",
       "liveUrl": "https://handoffhub048.colmena.dev",
-      "description": "HandoffHub — dark-mode shift handoff workspace with handoff log CRUD, linked action-item tracking, risk/coverage board metrics, and event timeline on server-side SQLite state",
+      "description": "HandoffHub \u2014 dark-mode shift handoff workspace with handoff log CRUD, linked action-item tracking, risk/coverage board metrics, and event timeline on server-side SQLite state",
       "screenshot": "/screenshots/obrera/048-handoffhub.png",
       "model": "openai-codex/gpt-5.3-codex"
     },
@@ -558,9 +558,20 @@
       "repoName": "nightshift-049-vendorguard",
       "repoUrl": "https://github.com/obrera/nightshift-049-vendorguard",
       "liveUrl": "https://vendorguard049.colmena.dev",
-      "description": "VendorGuard — dark-mode vendor risk monitoring workspace with vendor registry CRUD, assessment workflow tracking, linked remediation SLA board, and analytics timeline on server-side SQLite state",
+      "description": "VendorGuard \u2014 dark-mode vendor risk monitoring workspace with vendor registry CRUD, assessment workflow tracking, linked remediation SLA board, and analytics timeline on server-side SQLite state",
       "screenshot": "/screenshots/obrera/049-vendorguard.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "050",
+      "date": "2026-04-03",
+      "title": "compliancecockpit",
+      "repoName": "nightshift-050-compliancecockpit",
+      "repoUrl": "https://github.com/obrera/nightshift-050-compliancecockpit",
+      "liveUrl": "",
+      "description": "ComplianceCockpit \u2014 dark-mode compliance operations cockpit with control register CRUD, evidence request workflow, audit findings tracker, and analytics timeline on server-side SQLite state",
+      "screenshot": "",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
