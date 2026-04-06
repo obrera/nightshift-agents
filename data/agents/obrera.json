@@ -594,6 +594,17 @@
       "title": "queuepilot",
       "liveUrl": "https://queuepilot052.colmena.dev",
       "screenshot": "/screenshots/obrera/052-queuepilot.png"
+    },
+    {
+      "build": "053",
+      "date": "2026-04-06",
+      "title": "storyforge",
+      "repoName": "nightshift-053-storyforge",
+      "repoUrl": "https://github.com/obrera/nightshift-053-storyforge",
+      "liveUrl": "https://storyforge053.colmena.dev",
+      "description": "StoryForge — dark-mode collaborative writer room with real auth, shared room invites, card workflow, comment timeline, and Datamuse-powered prompt suggestions on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/053-storyforge.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
