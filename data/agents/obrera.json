@@ -605,6 +605,17 @@
       "description": "StoryForge — dark-mode collaborative writer room with real auth, shared room invites, card workflow, comment timeline, and Datamuse-powered prompt suggestions on server-side SQLite state",
       "screenshot": "/screenshots/obrera/053-storyforge.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "054",
+      "date": "2026-04-07",
+      "title": "roommateledger",
+      "repoName": "nightshift-054-roommateledger",
+      "repoUrl": "https://github.com/obrera/nightshift-054-roommateledger",
+      "liveUrl": "https://roommateledger054.colmena.dev",
+      "description": "RoommateLedger — dark-mode household collaboration workspace with real auth, shared chores board, expense settlement engine, shopping list claims, and SQLite-backed activity timeline",
+      "screenshot": "/screenshots/obrera/054-roommateledger.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
