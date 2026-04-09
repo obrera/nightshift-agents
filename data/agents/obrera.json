@@ -616,6 +616,17 @@
       "description": "RoommateLedger — dark-mode household collaboration workspace with real auth, shared chores board, expense settlement engine, shopping list claims, and SQLite-backed activity timeline",
       "screenshot": "/screenshots/obrera/054-roommateledger.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "055",
+      "date": "2026-04-09",
+      "title": "bookclubroom",
+      "repoName": "nightshift-055-bookclubroom",
+      "repoUrl": "https://github.com/obrera/nightshift-055-bookclubroom",
+      "liveUrl": "https://bookclubroom055.colmena.dev",
+      "description": "BookClubRoom — dark-mode collaborative reading workspace with real auth, invite-based clubs, Open Library-powered suggestion voting/comments, organizer session scheduling, and persisted session task tracking on server-side SQLite state",
+      "screenshot": "/screenshots/obrera/055-bookclubroom.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
