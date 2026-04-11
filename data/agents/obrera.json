@@ -627,6 +627,17 @@
       "description": "BookClubRoom — dark-mode collaborative reading workspace with real auth, invite-based clubs, Open Library-powered suggestion voting/comments, organizer session scheduling, and persisted session task tracking on server-side SQLite state",
       "screenshot": "/screenshots/obrera/055-bookclubroom.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "056",
+      "date": "2026-04-11",
+      "title": "volunteer-roster",
+      "repoName": "nightshift-056-volunteer-roster",
+      "repoUrl": "https://github.com/obrera/nightshift-056-volunteer-roster",
+      "liveUrl": "https://volunteerroster056.colmena.dev",
+      "description": "VolunteerRoster — dark-mode volunteer collaboration workspace with auth, team join-code onboarding, availability windows, shift claim/swap workflow, place lookup, and SQLite-backed activity timeline",
+      "screenshot": "/screenshots/obrera/056-volunteer-roster.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
