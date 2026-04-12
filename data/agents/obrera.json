@@ -638,6 +638,17 @@
       "description": "VolunteerRoster — dark-mode volunteer collaboration workspace with auth, team join-code onboarding, availability windows, shift claim/swap workflow, place lookup, and SQLite-backed activity timeline",
       "screenshot": "/screenshots/obrera/056-volunteer-roster.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "057",
+      "date": "2026-04-12",
+      "title": "pantryparty",
+      "repoName": "nightshift-057-pantryparty",
+      "repoUrl": "https://github.com/obrera/nightshift-057-pantryparty",
+      "liveUrl": "https://pantryparty057.colmena.dev",
+      "description": "PantryParty — dark-mode household pantry collaboration app with auth, invite-code household workspaces, pantry inventory and meal planning, smart shopping generation/claim flow, and SQLite-backed activity timeline",
+      "screenshot": "/screenshots/obrera/057-pantryparty.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
