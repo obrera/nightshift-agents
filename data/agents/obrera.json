@@ -649,6 +649,17 @@
       "description": "PantryParty — dark-mode household pantry collaboration app with auth, invite-code household workspaces, pantry inventory and meal planning, smart shopping generation/claim flow, and SQLite-backed activity timeline",
       "screenshot": "/screenshots/obrera/057-pantryparty.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "058",
+      "date": "2026-04-13",
+      "title": "petcareloop",
+      "repoName": "nightshift-058-petcareloop",
+      "repoUrl": "https://github.com/obrera/nightshift-058-petcareloop",
+      "liveUrl": "https://petcareloop058.colmena.dev",
+      "description": "PetCareLoop — dark-mode household pet-care collaboration app with auth, invite-code household onboarding, pet profiles and routines, care logs with evidence/comments, medication stock alerts, and vet appointment planning on SQLite-backed server state",
+      "screenshot": "/screenshots/obrera/058-petcareloop.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
