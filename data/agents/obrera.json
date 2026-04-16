@@ -660,6 +660,17 @@
       "description": "PetCareLoop — dark-mode household pet-care collaboration app with auth, invite-code household onboarding, pet profiles and routines, care logs with evidence/comments, medication stock alerts, and vet appointment planning on SQLite-backed server state",
       "screenshot": "/screenshots/obrera/058-petcareloop.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "059",
+      "date": "2026-04-16",
+      "title": "skillhive",
+      "repoName": "nightshift-059-skillhive",
+      "repoUrl": "https://github.com/obrera/nightshift-059-skillhive",
+      "liveUrl": "https://skillhive059.colmena.dev",
+      "description": "SkillHive — dark-mode collaborative peer skill-exchange platform with auth, profile skill graphs, searchable offers/requests marketplace, session proposal workflow, and SQLite-backed feedback history",
+      "screenshot": "/screenshots/obrera/059-skillhive.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
