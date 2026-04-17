@@ -671,6 +671,17 @@
       "description": "SkillHive — dark-mode collaborative peer skill-exchange platform with auth, profile skill graphs, searchable offers/requests marketplace, session proposal workflow, and SQLite-backed feedback history",
       "screenshot": "/screenshots/obrera/059-skillhive.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "060",
+      "date": "2026-04-17",
+      "title": "neighborqueue",
+      "repoName": "nightshift-060-neighborqueue",
+      "repoUrl": "https://github.com/obrera/nightshift-060-neighborqueue",
+      "liveUrl": "https://neighborqueue060.colmena.dev",
+      "description": "NeighborQueue — dark-mode neighborhood collaboration app with auth, request/offer posting, claim-help workflow, timeline comments, and SQLite-backed personal queues",
+      "screenshot": "/screenshots/obrera/060-neighborqueue.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
