@@ -682,6 +682,17 @@
       "description": "NeighborQueue — dark-mode neighborhood collaboration app with auth, request/offer posting, claim-help workflow, timeline comments, and SQLite-backed personal queues",
       "screenshot": "/screenshots/obrera/060-neighborqueue.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "061",
+      "date": "2026-04-19",
+      "title": "decisionjam",
+      "repoName": "nightshift-061-decisionjam",
+      "repoUrl": "https://github.com/obrera/nightshift-061-decisionjam",
+      "liveUrl": "https://decisionjam061.colmena.dev",
+      "description": "DecisionJam — dark-mode collaborative decision workspace with real auth, workspace/proposal lifecycle management, ranked voting with transparent tally, comments and activity timeline, and SQLite-backed server persistence",
+      "screenshot": "/public/screenshots/obrera/061-decisionjam.png",
+      "model": "openai-codex/gpt-5.3-codex"
     }
   ]
 }
