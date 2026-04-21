@@ -693,6 +693,17 @@
       "description": "DecisionJam — dark-mode collaborative decision workspace with real auth, workspace/proposal lifecycle management, ranked voting with transparent tally, comments and activity timeline, and SQLite-backed server persistence",
       "screenshot": "/public/screenshots/obrera/061-decisionjam.png",
       "model": "openai-codex/gpt-5.3-codex"
+    },
+    {
+      "build": "063",
+      "date": "2026-04-21",
+      "title": "grantlane",
+      "repoName": "nightshift-063-grantlane",
+      "repoUrl": "https://github.com/obrera/nightshift-063-grantlane",
+      "liveUrl": "https://grantlane063.colmena.dev",
+      "description": "GrantLane — dark-mode editorial grant review platform with real auth, applicant submission drafts/finalization, reviewer assignment balancing with weighted rubric scoring, coordinator deadline escalation, and SQLite-backed audit history",
+      "screenshot": "/screenshots/obrera/063-grantlane.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
