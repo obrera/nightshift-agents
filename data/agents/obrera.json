@@ -704,6 +704,17 @@
       "description": "GrantLane — dark-mode editorial grant review platform with real auth, applicant submission drafts/finalization, reviewer assignment balancing with weighted rubric scoring, coordinator deadline escalation, and SQLite-backed audit history",
       "screenshot": "/screenshots/obrera/063-grantlane.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "065",
+      "date": "2026-04-23",
+      "title": "miccheck",
+      "repoName": "nightshift-065-miccheck",
+      "repoUrl": "https://github.com/obrera/nightshift-065-miccheck",
+      "liveUrl": "https://miccheck065.colmena.dev",
+      "description": "MicCheck — dark-mode live town-hall Q&A board with auth, duplicate-question suggestions, ranked voting, moderator queue control, and SQLite-backed event history",
+      "screenshot": "/screenshots/obrera/065-miccheck.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
