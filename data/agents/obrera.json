@@ -726,6 +726,17 @@
       "description": "SeatSprint — dark-mode event booking desk with auth, calendar-first session board, waitlist rescue suggestions, and door-staff check-in controls on durable server-side SQLite state",
       "screenshot": "/screenshots/obrera/066-seatsprint.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "067",
+      "date": "2026-04-24",
+      "title": "swapnest",
+      "repoName": "nightshift-067-swapnest",
+      "repoUrl": "https://github.com/obrera/nightshift-067-swapnest",
+      "liveUrl": "https://swapnest067.colmena.dev",
+      "description": "SwapNest — dark-mode neighborhood swap marketplace with real auth, offer/want shelves, reciprocal match scoring, and proposal inbox workflow",
+      "screenshot": "/screenshots/obrera/067-swapnest.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
