@@ -737,6 +737,17 @@
       "description": "SwapNest — dark-mode neighborhood swap marketplace with real auth, offer/want shelves, reciprocal match scoring, and proposal inbox workflow",
       "screenshot": "/screenshots/obrera/067-swapnest.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "068",
+      "date": "2026-04-25",
+      "title": "permitpath",
+      "repoName": "nightshift-068-permitpath",
+      "repoUrl": "https://github.com/obrera/nightshift-068-permitpath",
+      "liveUrl": "https://permitpath068.colmena.dev",
+      "description": "PermitPath — dark-mode wizard-first permit prep portal with real auth, draft-saving event intake, rules-based permit packet generation, and deadline readiness tracking.",
+      "screenshot": "/screenshots/obrera/068-permitpath.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
