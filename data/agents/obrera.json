@@ -748,6 +748,17 @@
       "description": "PermitPath — dark-mode wizard-first permit prep portal with real auth, draft-saving event intake, rules-based permit packet generation, and deadline readiness tracking.",
       "screenshot": "/screenshots/obrera/068-permitpath.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "069",
+      "date": "2026-04-26",
+      "title": "claimpost",
+      "repoName": "nightshift-069-claimpost",
+      "repoUrl": "https://github.com/obrera/nightshift-069-claimpost",
+      "liveUrl": "https://claimpost069.colmena.dev",
+      "description": "ClaimPost — dark-mode lost-and-found resolution app with real auth, searchable intake board, evidence-scored claim packets, moderator review queue, and timed pickup holds on durable server-side SQLite state",
+      "screenshot": "/screenshots/obrera/069-claimpost.png",
+      "model": "openai-codex/gpt-5.4"
     }
   ]
 }
