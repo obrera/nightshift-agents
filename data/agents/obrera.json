@@ -759,6 +759,17 @@
       "description": "ClaimPost — dark-mode lost-and-found resolution app with real auth, searchable intake board, evidence-scored claim packets, moderator review queue, and timed pickup holds on durable server-side SQLite state",
       "screenshot": "/screenshots/obrera/069-claimpost.png",
       "model": "openai-codex/gpt-5.4"
+    },
+    {
+      "build": "070",
+      "date": "2026-04-27",
+      "name": "traitforge",
+      "repoUrl": "https://github.com/obrera/nightshift-070-traitforge",
+      "liveUrl": "https://traitforge070.colmena.dev",
+      "description": "TraitForge — wizard-first MPL Core collectible composer with layered preview rendering, rarity/conflict validation, saved draft links, and operator schema analytics on durable server-side state",
+      "model": "openai-codex/gpt-5.4",
+      "status": "completed",
+      "screenshot": "/screenshots/obrera/070-build.png"
     }
   ]
 }
