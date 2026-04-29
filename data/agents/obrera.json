@@ -770,6 +770,30 @@
       "model": "openai-codex/gpt-5.4",
       "status": "completed",
       "screenshot": "/screenshots/obrera/070-build.png"
+    },
+    {
+      "build": "071",
+      "date": "2026-04-28",
+      "title": "stampquest",
+      "repoName": "nightshift-071-stampquest",
+      "repoUrl": "https://github.com/obrera/nightshift-071-stampquest",
+      "liveUrl": "https://stampquest071.colmena.dev",
+      "description": "StampQuest — mobile-first checkpoint passport with real auth, rally progress, cooldown-aware redemption, operator leaderboard, and execute-plugin-aware MPL Core reward claims",
+      "screenshot": "/screenshots/obrera/071-stampquest.png",
+      "model": "openai-codex/gpt-5.4",
+      "status": "completed"
+    },
+    {
+      "build": "072",
+      "date": "2026-04-29",
+      "title": "bountyproof",
+      "repoName": "nightshift-072-bountyproof",
+      "repoUrl": "https://github.com/obrera/nightshift-072-bountyproof",
+      "liveUrl": "https://bountyproof072.colmena.dev",
+      "description": "BountyProof — dark-mode editorial proof-submission platform with real auth, contributor packets, reviewer assignment balancing with weighted rubric scoring, operator audit queue, and MPL Core proof-asset minting",
+      "screenshot": "/screenshots/obrera/072-bountyproof.png",
+      "model": "openai-codex/gpt-5.4",
+      "status": "completed"
     }
   ]
 }
