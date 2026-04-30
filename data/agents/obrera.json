@@ -794,6 +794,18 @@
       "screenshot": "/screenshots/obrera/072-bountyproof.png",
       "model": "openai-codex/gpt-5.4",
       "status": "completed"
+    },
+    {
+      "build": "073",
+      "date": "2026-04-30",
+      "title": "licenseshelf",
+      "repoName": "nightshift-073-licenseshelf",
+      "repoUrl": "https://github.com/obrera/nightshift-073-licenseshelf",
+      "liveUrl": "https://licenseshelf073.colmena.dev",
+      "description": "LicenseShelf — dark-mode consumer product shelf with real wallet auth, tiered license comparison, live MPL Core entitlement issuance into the connected wallet, entitlement history and operator inventory plus issuance audit tooling",
+      "screenshot": "/screenshots/obrera/073-licenseshelf.png",
+      "model": "openai-codex/gpt-5.4",
+      "status": "completed"
     }
   ]
 }
