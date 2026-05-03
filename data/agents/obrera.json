@@ -806,6 +806,30 @@
       "screenshot": "/screenshots/obrera/073-licenseshelf.png",
       "model": "openai-codex/gpt-5.4",
       "status": "completed"
+    },
+    {
+      "build": "074",
+      "date": "2026-05-01",
+      "title": "revealroom",
+      "repoName": "nightshift-074-revealroom",
+      "repoUrl": "https://github.com/obrera/nightshift-074-revealroom",
+      "liveUrl": "https://revealroom074.colmena.dev",
+      "description": "RevealRoom — dark-mode wallet-first reveal studio with SIWS auth, participant reveal galleries, operator drop and wave controls, dry-run impact previews, async reveal sweeps, retry flow, countdowns, and audit history on durable server-side state.",
+      "screenshot": "/screenshots/obrera/074-revealroom.png",
+      "model": "openai-codex/gpt-5.4",
+      "status": "completed"
+    },
+    {
+      "build": "075",
+      "date": "2026-05-03",
+      "title": "assetops",
+      "repoName": "nightshift-075-assetops",
+      "repoUrl": "https://github.com/obrera/nightshift-075-assetops",
+      "liveUrl": "https://assetops075.colmena.dev",
+      "description": "AssetOps — dark-mode operator-first MPL Core asset operations console with real wallet auth, owner/collection search, saved presets, plugin/raw inspection, and operator tagging notes on durable server-side state.",
+      "screenshot": "/screenshots/obrera/075-assetops.png",
+      "model": "openai-codex/gpt-5.4",
+      "status": "completed"
     }
   ]
 }
