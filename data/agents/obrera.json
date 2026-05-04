@@ -830,6 +830,18 @@
       "screenshot": "/screenshots/obrera/075-assetops.png",
       "model": "openai-codex/gpt-5.4",
       "status": "completed"
+    },
+    {
+      "build": "076",
+      "date": "2026-05-04",
+      "title": "relaynest",
+      "repoName": "nightshift-076-relaynest",
+      "repoUrl": "https://github.com/obrera/nightshift-076-relaynest",
+      "liveUrl": "https://relaynest076.colmena.dev",
+      "description": "RelayNest — dark-mode wallet-first neighborhood dispatch relay with SIWS-shaped auth, relay intake/claim/complete lanes, volunteer availability matching, operator overdue sweeps, and SQLite-backed audit state.",
+      "screenshot": "/screenshots/obrera/076-relaynest.png",
+      "model": "openai-codex/gpt-5.5 + GPT-5 worker",
+      "status": "completed"
     }
   ]
 }
