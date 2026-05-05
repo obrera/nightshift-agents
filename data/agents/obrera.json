@@ -842,6 +842,17 @@
       "screenshot": "/screenshots/obrera/076-relaynest.png",
       "model": "openai-codex/gpt-5.5 + GPT-5 worker",
       "status": "completed"
+    },
+    {
+      "build": "077",
+      "date": "2026-05-05",
+      "description": "CredentialMint — dark-mode academic credential issuance app with real wallet auth, issuer approval, learner claims, and MPL Core verification on durable server-side state",
+      "model": "openai-codex/gpt-5.5",
+      "repoName": "nightshift-077-credentialmint",
+      "repoUrl": "https://github.com/obrera/nightshift-077-credentialmint",
+      "title": "credentialmint",
+      "liveUrl": "https://credentialmint077.colmena.dev",
+      "screenshot": "/screenshots/obrera/077-credentialmint.png"
     }
   ]
 }

@@ -94,6 +94,8 @@ async function screenshotBuild(context, username, build, force) {
     await mkdir(path.dirname(target.absolute), { recursive: true });
     await page.setViewportSize({ width: 1280, height: 720 });
     await page.goto(build.liveUrl, { timeout: 30_000, waitUntil: 'domcontentloaded' });
+    await page.waitForLoadState('networkidle', { timeout: 15_000 }).catch(() => {});
+    await page.waitForTimeout(3_000);
     await page.screenshot({ path: target.absolute, fullPage: false });
     build.screenshot = target.relative;
 
