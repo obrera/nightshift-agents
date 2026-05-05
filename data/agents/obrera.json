@@ -853,6 +853,18 @@
       "title": "credentialmint",
       "liveUrl": "https://credentialmint077.colmena.dev",
       "screenshot": "/screenshots/obrera/077-credentialmint.png"
+    },
+    {
+      "build": "078",
+      "date": "2026-05-05",
+      "description": "TicketGate — dark-mode event ticketing app with organizer allocation, wallet-signed attendee claims, server-signed MPL Core ticket minting, door-staff check-in, and SQLite audit history",
+      "model": "openai/gpt-5.5 recovery",
+      "repoName": "nightshift-078-ticketgate",
+      "repoUrl": "https://github.com/obrera/nightshift-078-ticketgate",
+      "title": "ticketgate",
+      "liveUrl": "https://ticketgate078.colmena.dev",
+      "screenshot": "/screenshots/obrera/078-ticketgate.png",
+      "status": "completed"
     }
   ]
 }
