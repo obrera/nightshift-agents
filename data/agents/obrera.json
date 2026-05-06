@@ -865,6 +865,18 @@
       "liveUrl": "https://ticketgate078.colmena.dev",
       "screenshot": "/screenshots/obrera/078-ticketgate.png",
       "status": "completed"
+    },
+    {
+      "build": "079",
+      "date": "2026-05-06",
+      "description": "VoteLock — dark-mode Solana governance receipt workstation with wallet-signed ranked ballots, duplicate-vote prevention, durable SQLite tally/audit state, operator receipt verification, and server-signed MPL Core vote receipt minting",
+      "model": "openai/gpt-5.5 + GPT-5 worker",
+      "repoName": "nightshift-079-votelock",
+      "repoUrl": "https://github.com/obrera/nightshift-079-votelock",
+      "title": "votelock",
+      "liveUrl": "https://votelock079.colmena.dev",
+      "screenshot": "/screenshots/obrera/079-votelock.png",
+      "status": "completed"
     }
   ]
 }
