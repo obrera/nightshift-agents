@@ -877,6 +877,18 @@
       "liveUrl": "https://votelock079.colmena.dev",
       "screenshot": "/screenshots/obrera/079-votelock.png",
       "status": "completed"
+    },
+    {
+      "build": "081",
+      "date": "2026-05-09",
+      "description": "CareKey — dark-mode mobile-first medical record consent portal with wallet-first SIWS auth, scoped time-boxed release passes, provider code verification, operator approval audit state, and server-signed MPL Core access credential issuance",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-081-carekey",
+      "repoUrl": "https://github.com/obrera/nightshift-081-carekey",
+      "title": "carekey",
+      "liveUrl": "https://carekey081.colmena.dev",
+      "screenshot": "/screenshots/obrera/081-carekey.png",
+      "status": "completed"
     }
   ]
 }
