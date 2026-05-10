@@ -889,6 +889,18 @@
       "liveUrl": "https://carekey081.colmena.dev",
       "screenshot": "/screenshots/obrera/081-carekey.png",
       "status": "completed"
+    },
+    {
+      "build": "082",
+      "date": "2026-05-10",
+      "description": "ProvenanceBay — dark-mode supply-chain provenance bay with wallet-signed custody receipts, public lot passport verification, durable SQLite handoff state, and MPL Core issue-plan readiness",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-082-provenancebay",
+      "repoUrl": "https://github.com/obrera/nightshift-082-provenancebay",
+      "title": "provenancebay",
+      "liveUrl": "https://provenancebay082.colmena.dev",
+      "screenshot": "/screenshots/obrera/082-provenancebay.png",
+      "status": "completed"
     }
   ]
 }
