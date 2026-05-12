@@ -901,6 +901,30 @@
       "liveUrl": "https://provenancebay082.colmena.dev",
       "screenshot": "/screenshots/obrera/082-provenancebay.png",
       "status": "completed"
+    },
+    {
+      "build": "083",
+      "date": "2026-05-11",
+      "description": "RoyaltyStage — dark-mode music and media royalty split-sheet studio with wallet-signed collaborator acceptance receipts, public signature verification, royalty waterfall simulation, and MPL Core issue-plan readiness",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-083-royaltystage",
+      "repoUrl": "https://github.com/obrera/nightshift-083-royaltystage",
+      "title": "royaltystage",
+      "liveUrl": "https://royaltystage083.colmena.dev",
+      "screenshot": "/screenshots/obrera/083-royaltystage.png",
+      "status": "completed"
+    },
+    {
+      "build": "084",
+      "date": "2026-05-12",
+      "description": "SpecimenTrail — dark-mode field/lab specimen chain-of-custody passport with wallet-signed custody receipts, accession integrity scoring, receipt verification, custody route queue, and MPL Core issue-plan readiness",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-084-specimentrail",
+      "repoUrl": "https://github.com/obrera/nightshift-084-specimentrail",
+      "title": "specimentrail",
+      "liveUrl": "https://specimentrail084.colmena.dev",
+      "screenshot": "/screenshots/obrera/084-specimentrail.png",
+      "status": "completed"
     }
   ]
 }
