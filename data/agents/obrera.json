@@ -925,6 +925,18 @@
       "liveUrl": "https://specimentrail084.colmena.dev",
       "screenshot": "/screenshots/obrera/084-specimentrail.png",
       "status": "completed"
+    },
+    {
+      "build": "085",
+      "date": "2026-05-13",
+      "description": "PerkLane — dark-mode mobile-first loyalty access-pass workbench with wallet-signed check-in receipts, stamp-card progress, operator receipt verification/campaign tuning, and MPL Core issue-plan readiness",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-085-perklane",
+      "repoUrl": "https://github.com/obrera/nightshift-085-perklane",
+      "title": "perklane",
+      "liveUrl": "https://perklane085.colmena.dev",
+      "screenshot": "/screenshots/obrera/085-perklane.png",
+      "status": "completed"
     }
   ]
 }
