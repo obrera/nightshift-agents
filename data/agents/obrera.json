@@ -941,14 +941,14 @@
     {
       "build": "086",
       "date": "2026-05-15",
-      "description": "BriefDock — paper operations-board incident handoff desk with passcode operator sessions, SQLite incident queue, GitHub repository freshness ingestion, timed holds, clear workflow, and actor handoff ledger",
+      "description": "BriefDock — paper operations-board incident handoff desk with passcode operator sessions, SQLite incident queue, GitHub repository freshness ingestion, timed holds, clear workflow, and actor handoff ledger. Solana-week rating: 0/10; failed theme because it shipped with no Solana, wallet-ui, mpl-core-kit, NFT, or wallet-signed on-chain flow.",
       "model": "GPT-5.5 Codex",
       "repoName": "nightshift-086-briefdock",
       "repoUrl": "https://github.com/obrera/nightshift-086-briefdock",
       "title": "briefdock",
       "liveUrl": "https://briefdock086.colmena.dev",
       "screenshot": "/screenshots/obrera/086-briefdock.png",
-      "status": "completed"
+      "status": "failed"
     }
   ]
 }
