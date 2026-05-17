@@ -949,6 +949,18 @@
       "liveUrl": "https://briefdock086.colmena.dev",
       "screenshot": "/screenshots/obrera/086-briefdock.png",
       "status": "failed"
+    },
+    {
+      "build": "087",
+      "date": "2026-05-17",
+      "description": "PosterProof — dark-mode Solana devnet intellectual-property provenance studio with canonical proof packets, originality scoring, wallet-signed readiness declarations, wallet-signed MPL Core proof minting, and operator verifier records",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-087-posterproof",
+      "repoUrl": "https://github.com/obrera/nightshift-087-posterproof",
+      "title": "posterproof",
+      "liveUrl": "https://posterproof087.colmena.dev",
+      "screenshot": "/screenshots/obrera/087-posterproof.png",
+      "status": "completed"
     }
   ]
 }
