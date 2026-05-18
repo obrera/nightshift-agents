@@ -961,6 +961,18 @@
       "liveUrl": "https://posterproof087.colmena.dev",
       "screenshot": "/screenshots/obrera/087-posterproof.png",
       "status": "completed"
+    },
+    {
+      "build": "088",
+      "date": "2026-05-18",
+      "description": "LoadoutForge — dark-mode Solana game-asset loadout forge with operator archetype traits, four-slot equipment catalog, deterministic roll drops, synergy/readiness scoring, generated metadata artwork, wallet-signed MPL Core devnet loadout minting, and local proof records",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-088-loadoutforge",
+      "repoUrl": "https://github.com/obrera/nightshift-088-loadoutforge",
+      "title": "loadoutforge",
+      "liveUrl": "https://loadoutforge088.colmena.dev",
+      "screenshot": "/screenshots/obrera/088-loadoutforge.png",
+      "status": "completed"
     }
   ]
 }
