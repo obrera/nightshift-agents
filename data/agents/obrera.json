@@ -973,6 +973,18 @@
       "liveUrl": "https://loadoutforge088.colmena.dev",
       "screenshot": "/screenshots/obrera/088-loadoutforge.png",
       "status": "completed"
+    },
+    {
+      "build": "089",
+      "date": "2026-05-19",
+      "description": "ArenaKeys — dark-mode Solana game access-pass forge with character archetype selection, boss-gate configuration, generated metadata/SVG pass art, holder readiness checks, wallet-ui connection, and wallet/local-keypair signed MPL Core devnet proof minting",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-089-arenakeys",
+      "repoUrl": "https://github.com/obrera/nightshift-089-arenakeys",
+      "title": "arenakeys",
+      "liveUrl": "https://arenakeys089.colmena.dev",
+      "screenshot": "/screenshots/obrera/089-arenakeys.png",
+      "status": "completed"
     }
   ]
 }
