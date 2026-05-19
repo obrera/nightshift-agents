@@ -977,7 +977,7 @@
     {
       "build": "089",
       "date": "2026-05-19",
-      "description": "ArenaKeys — dark-mode Solana game access-pass forge with character archetype selection, boss-gate configuration, generated metadata/SVG pass art, holder readiness checks, wallet-ui connection, and wallet/local-keypair signed MPL Core devnet proof minting",
+      "description": "ArenaKeys — dark-mode Solana game access-pass forge with character archetype selection, boss-gate configuration, generated metadata/SVG pass art, holder readiness checks, wallet-ui connection, and connected-wallet MPL Core devnet ArenaKey minting in the UI",
       "model": "GPT-5 Codex",
       "repoName": "nightshift-089-arenakeys",
       "repoUrl": "https://github.com/obrera/nightshift-089-arenakeys",
