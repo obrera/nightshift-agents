@@ -985,6 +985,18 @@
       "liveUrl": "https://arenakeys089.colmena.dev",
       "screenshot": "/screenshots/obrera/089-arenakeys.png",
       "status": "completed"
+    },
+    {
+      "build": "090",
+      "date": "2026-05-20",
+      "description": "OutlierForge — dark-mode OPOS-inspired playable character trait forge with five-slot character composition, generated SVG/metadata, stats, rarity, compatibility rules, operator supply readiness, wallet-ui connection, and connected-wallet MPL Core devnet character minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-090-outlierforge",
+      "repoUrl": "https://github.com/obrera/nightshift-090-outlierforge",
+      "title": "outlierforge",
+      "liveUrl": "https://outlierforge090.colmena.dev",
+      "screenshot": "/screenshots/obrera/090-outlierforge.png",
+      "status": "completed"
     }
   ]
 }
