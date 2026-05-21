@@ -997,6 +997,18 @@
       "liveUrl": "https://outlierforge090.colmena.dev",
       "screenshot": "/screenshots/obrera/090-outlierforge.png",
       "status": "completed"
+    },
+    {
+      "build": "091",
+      "date": "2026-05-21",
+      "description": "RaidVault — dark-mode Solana game inventory vault with raid-kit assembly, readiness and loot-tier scoring, generated metadata/art payloads, receipt verification, wallet-ui connection, and connected-wallet MPL Core devnet Raid Vault Key minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-091-raidvault",
+      "repoUrl": "https://github.com/obrera/nightshift-091-raidvault",
+      "title": "RaidVault",
+      "liveUrl": "https://raidvault091.colmena.dev",
+      "screenshot": "/screenshots/obrera/091-raidvault.png",
+      "status": "completed"
     }
   ]
 }
