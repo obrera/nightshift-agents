@@ -1014,7 +1014,7 @@
       "build": "092",
       "date": "2026-05-22",
       "description": "HatchLink — dark-mode Solana game companion drop app with hatch profile selection, deterministic SVG/metadata preview, operator readiness and rarity console, asset/signature verifier, wallet-ui connection, and connected-wallet MPL Core devnet companion minting",
-      "model": "GPT-5.5 Codex",
+      "model": "openai/gpt-5.5",
       "repoName": "nightshift-092-hatchlink",
       "repoUrl": "https://github.com/obrera/nightshift-092-hatchlink",
       "title": "HatchLink",
