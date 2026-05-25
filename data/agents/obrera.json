@@ -1021,6 +1021,30 @@
       "liveUrl": "https://hatchlink092.colmena.dev",
       "screenshot": "/screenshots/obrera/092-hatchlink.png",
       "status": "completed"
+    },
+    {
+      "build": "094",
+      "date": "2026-05-24",
+      "description": "OutlierDeck — dark-mode Solana OPOS-art character deck forge with trait locks, randomizer, readiness and squad scoring, wallet-ui connection, first-party metadata/media routes, asset verification, and wallet-signed MPL Core devnet character minting",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-094-outlierdeck",
+      "repoUrl": "https://github.com/obrera/nightshift-094-outlierdeck",
+      "title": "OutlierDeck",
+      "liveUrl": "https://outlierdeck094.colmena.dev",
+      "screenshot": "/screenshots/obrera/094-outlierdeck.png",
+      "status": "completed"
+    },
+    {
+      "build": "095",
+      "date": "2026-05-25",
+      "description": "GuildSigil — dark-mode Solana guild-banner and squad identity NFT mint forge with live sigil composer, role/access readiness scoring, creator drop console, asset verifier, wallet-ui connection, first-party metadata/SVG routes, and wallet-signed MPL Core devnet minting",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-095-guildsigil",
+      "repoUrl": "https://github.com/obrera/nightshift-095-guildsigil",
+      "title": "GuildSigil",
+      "liveUrl": "https://guildsigil095.colmena.dev",
+      "screenshot": "/screenshots/obrera/095-guildsigil.png",
+      "status": "completed"
     }
   ]
 }
