@@ -1057,6 +1057,18 @@
       "liveUrl": "https://temporaid096.colmena.dev",
       "screenshot": "/screenshots/obrera/096-temporaid.png",
       "status": "completed"
+    },
+    {
+      "build": "097",
+      "date": "2026-05-27",
+      "description": "RuneForge — dark-mode Solana game equipment crafting forge with catalyst/socket/rune-school recipe building, stat and stability simulation, first-party JSON/SVG metadata, creator operator console, asset verifier, wallet-ui connection, and wallet-signed MPL Core devnet rune minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-097-runeforge",
+      "repoUrl": "https://github.com/obrera/nightshift-097-runeforge",
+      "title": "RuneForge",
+      "liveUrl": "https://runeforge097.colmena.dev",
+      "screenshot": "/screenshots/obrera/097-runeforge.png",
+      "status": "completed"
     }
   ]
 }
