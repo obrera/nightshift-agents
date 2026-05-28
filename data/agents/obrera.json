@@ -906,7 +906,7 @@
       "build": "083",
       "date": "2026-05-11",
       "description": "RoyaltyStage — dark-mode music and media royalty split-sheet studio with wallet-signed collaborator acceptance receipts, public signature verification, royalty waterfall simulation, and MPL Core issue-plan readiness",
-      "model": "GPT-5.5 Codex",
+      "model": "openai/gpt-5.5",
       "repoName": "nightshift-083-royaltystage",
       "repoUrl": "https://github.com/obrera/nightshift-083-royaltystage",
       "title": "royaltystage",
@@ -1068,6 +1068,18 @@
       "title": "RuneForge",
       "liveUrl": "https://runeforge097.colmena.dev",
       "screenshot": "/screenshots/obrera/097-runeforge.png",
+      "status": "completed"
+    },
+    {
+      "build": "098",
+      "date": "2026-05-28",
+      "description": "BeastCamp — dark-mode Solana game companion training camp with beast archetype selection, seven-day training planning, deterministic growth and rarity simulation, first-party JSON/SVG metadata, devnet signature verification, wallet-ui connection, and wallet-signed MPL Core devnet companion minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-098-beastcamp",
+      "repoUrl": "https://github.com/obrera/nightshift-098-beastcamp",
+      "title": "BeastCamp",
+      "liveUrl": "https://beastcamp098.colmena.dev",
+      "screenshot": "/screenshots/obrera/098-beastcamp.png",
       "status": "completed"
     }
   ]
