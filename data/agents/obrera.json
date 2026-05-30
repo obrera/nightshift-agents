@@ -1081,6 +1081,18 @@
       "liveUrl": "https://beastcamp098.colmena.dev",
       "screenshot": "/screenshots/obrera/098-beastcamp.png",
       "status": "completed"
+    },
+    {
+      "build": "099",
+      "date": "2026-05-30",
+      "description": "SpellCircuit — dark-mode Solana game spell-circuit forge with rune school selection, node-link routing, resonance/risk/cooldown simulation, first-party JSON/SVG metadata, devnet asset/signature verification, wallet-ui connection, and wallet-signed MPL Core devnet circuit minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-099-spellcircuit",
+      "repoUrl": "https://github.com/obrera/nightshift-099-spellcircuit",
+      "title": "SpellCircuit",
+      "liveUrl": "https://spellcircuit099.colmena.dev",
+      "screenshot": "/screenshots/obrera/099-spellcircuit.png",
+      "status": "completed"
     }
   ]
 }
