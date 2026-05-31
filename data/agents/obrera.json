@@ -1093,6 +1093,18 @@
       "liveUrl": "https://spellcircuit099.colmena.dev",
       "screenshot": "/screenshots/obrera/099-spellcircuit.png",
       "status": "completed"
+    },
+    {
+      "build": "100",
+      "date": "2026-05-31",
+      "description": "DeckForge — dark-mode Solana TCG deck-pass forge with 8-card playable loadout drafting, legality/synergy/risk/readiness simulation, first-party JSON/SVG metadata, devnet asset/signature verification, wallet-ui connection, and wallet-signed MPL Core devnet deck-pass minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-100-deckforge",
+      "repoUrl": "https://github.com/obrera/nightshift-100-deckforge",
+      "title": "DeckForge",
+      "liveUrl": "https://deckforge100.colmena.dev",
+      "screenshot": "/screenshots/obrera/100-deckforge.png",
+      "status": "completed"
     }
   ]
 }
