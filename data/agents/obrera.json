@@ -1105,6 +1105,30 @@
       "liveUrl": "https://deckforge100.colmena.dev",
       "screenshot": "/screenshots/obrera/100-deckforge.png",
       "status": "completed"
+    },
+    {
+      "build": "101",
+      "date": "2026-06-01",
+      "description": "TacticMint — dark-mode Solana tactical encounter-map forge with deterministic 7x7 battlefield composition, wave/patrol/pressure/loot tuning, threat/readiness/rarity simulation, first-party JSON/SVG metadata, encoded asset/signature verification, wallet-ui connection, and wallet-signed MPL Core devnet encounter minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-101-tacticmint",
+      "repoUrl": "https://github.com/obrera/nightshift-101-tacticmint",
+      "title": "TacticMint",
+      "liveUrl": "https://tacticmint101.colmena.dev",
+      "screenshot": "/screenshots/obrera/101-tacticmint.png",
+      "status": "completed"
+    },
+    {
+      "build": "102",
+      "date": "2026-06-02",
+      "description": "AbilityVault — dark-mode Solana game ability-tree vault with class/role/element/passive/rune/node page composition, combat readiness/synergy/rarity simulation, first-party JSON/SVG metadata, MPL Core asset/signature verification, wallet-ui connection, and wallet-signed MPL Core devnet ability-page minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-102-abilityvault",
+      "repoUrl": "https://github.com/obrera/nightshift-102-abilityvault",
+      "title": "AbilityVault",
+      "liveUrl": "https://abilityvault102.colmena.dev",
+      "screenshot": "/screenshots/obrera/102-abilityvault.png",
+      "status": "completed"
     }
   ]
 }
