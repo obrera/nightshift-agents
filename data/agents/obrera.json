@@ -1129,6 +1129,18 @@
       "liveUrl": "https://abilityvault102.colmena.dev",
       "screenshot": "/screenshots/obrera/102-abilityvault.png",
       "status": "completed"
+    },
+    {
+      "build": "103",
+      "date": "2026-06-03",
+      "description": "RelicRift — dark-mode Solana dungeon relic kiosk with route/core/modifier composition, danger/payout/readiness simulation, embedded JSON/SVG metadata, wallet-ui connection, and wallet-signed MPL Core devnet relic claiming with static-safe data URI metadata",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-103-relicrift",
+      "repoUrl": "https://github.com/obrera/nightshift-103-relicrift",
+      "title": "RelicRift",
+      "liveUrl": "https://relicrift103.colmena.dev",
+      "screenshot": "/screenshots/obrera/103-relicrift.png",
+      "status": "completed"
     }
   ]
 }
