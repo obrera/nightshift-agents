@@ -1141,6 +1141,18 @@
       "liveUrl": "https://relicrift103.colmena.dev",
       "screenshot": "/screenshots/obrera/103-relicrift.png",
       "status": "completed"
+    },
+    {
+      "build": "104",
+      "date": "2026-06-04",
+      "description": "FormationForge — dark-mode Solana squad-formation mint forge with 3x3 archetype placement, stance/terrain/pressure tuning, readiness stat simulation, first-party JSON/SVG metadata, wallet-ui connection, and wallet-signed MPL Core devnet squad minting with compact live metadata",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-104-formationforge",
+      "repoUrl": "https://github.com/obrera/nightshift-104-formationforge",
+      "title": "FormationForge",
+      "liveUrl": "https://formationforge104.colmena.dev",
+      "screenshot": "/screenshots/obrera/104-formationforge.png",
+      "status": "completed"
     }
   ]
 }
