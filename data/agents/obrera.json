@@ -1153,6 +1153,18 @@
       "liveUrl": "https://formationforge104.colmena.dev",
       "screenshot": "/screenshots/obrera/104-formationforge.png",
       "status": "completed"
+    },
+    {
+      "build": "105",
+      "date": "2026-06-05",
+      "description": "LootLease — dark-mode Solana game asset rental desk with rentable raid gear browsing, timed lease pack assembly, collateral posture/intensity/player class tuning, fees/readiness/liquidation risk simulation, first-party JSON/SVG permit metadata, wallet-ui connection, and wallet-signed MPL Core devnet rental permit minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-105-lootlease",
+      "repoUrl": "https://github.com/obrera/nightshift-105-lootlease",
+      "title": "LootLease",
+      "liveUrl": "https://lootlease105.colmena.dev",
+      "screenshot": "/screenshots/obrera/105-lootlease.png",
+      "status": "completed"
     }
   ]
 }
