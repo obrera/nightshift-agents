@@ -1165,6 +1165,18 @@
       "liveUrl": "https://lootlease105.colmena.dev",
       "screenshot": "/screenshots/obrera/105-lootlease.png",
       "status": "completed"
+    },
+    {
+      "build": "106",
+      "date": "2026-06-06",
+      "description": "DropLink — dark-mode Solana game loot-drop claim-link forge with claimable pack composition, loot rarity/expiry/claim-rule tuning, first-party JSON/SVG ticket metadata preview, readiness/risk/rarity scoring, verifier gates, wallet-ui connection, and wallet-signed MPL Core devnet claim-ticket minting",
+      "model": "GPT-5 Codex",
+      "repoName": "nightshift-106-droplink",
+      "repoUrl": "https://github.com/obrera/nightshift-106-droplink",
+      "title": "DropLink",
+      "liveUrl": "https://droplink106.colmena.dev",
+      "screenshot": "/screenshots/obrera/106-droplink.png",
+      "status": "completed"
     }
   ]
 }
