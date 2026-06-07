@@ -1177,6 +1177,18 @@
       "liveUrl": "https://droplink106.colmena.dev",
       "screenshot": "/screenshots/obrera/106-droplink.png",
       "status": "completed"
+    },
+    {
+      "build": "107",
+      "date": "2026-06-07",
+      "description": "GearGraft — dark-mode Solana game cosmetic equipment-skin forge with equipment base/finish/rune/catalyst/palette composition, rarity/stability/risk/readiness simulation, operator recipe rule tuning, first-party JSON/SVG metadata, verifier proof fields, wallet-ui connection, and wallet-signed MPL Core devnet equipment-skin minting",
+      "model": "GPT-5.5 Codex",
+      "repoName": "nightshift-107-geargraft",
+      "repoUrl": "https://github.com/obrera/nightshift-107-geargraft",
+      "title": "GearGraft",
+      "liveUrl": "https://geargraft107.colmena.dev",
+      "screenshot": "/screenshots/obrera/107-geargraft.png",
+      "status": "completed"
     }
   ]
 }
